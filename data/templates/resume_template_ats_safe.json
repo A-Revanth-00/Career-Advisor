@@ -1,0 +1,25 @@
+{
+  "id": "ats_safe",
+  "name": "ATS-Safe Classic",
+  "theme": "ats_minimal",
+  "description": "Single-column, high-contrast monochrome layout optimized for 100% compatibility with automated ATS parsers.",
+  "primary_color": "#000000",
+  "accent_color": "#222222",
+  "header_color": "#000000",
+  "text_color": "#111111",
+  "muted_color": "#333333",
+  "font_family": "Calibri, Arial, Helvetica, sans-serif",
+  "font_size_base": "12.5px",
+  "padding": "20px 28px",
+  "header_align": "left",
+  "section_divider": "1px solid #000000",
+  "sections_order": [
+    "header",
+    "summary",
+    "technical_skills",
+    "projects",
+    "education",
+    "certifications",
+    "achievements"
+  ]
+}

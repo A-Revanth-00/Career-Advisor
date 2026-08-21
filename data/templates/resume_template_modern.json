@@ -1,0 +1,25 @@
+{
+  "id": "modern",
+  "name": "Modern Professional",
+  "theme": "modern_blue",
+  "description": "Clean modern layout with blue accent headers, sleek typography, and structured styling for tech roles.",
+  "primary_color": "#1e40af",
+  "accent_color": "#2563eb",
+  "header_color": "#0f172a",
+  "text_color": "#1e293b",
+  "muted_color": "#475569",
+  "font_family": "'Segoe UI', Inter, Roboto, Arial, sans-serif",
+  "font_size_base": "13px",
+  "padding": "24px 32px",
+  "header_align": "center",
+  "section_divider": "1px solid #cbd5e1",
+  "sections_order": [
+    "header",
+    "summary",
+    "education",
+    "technical_skills",
+    "projects",
+    "certifications",
+    "achievements"
+  ]
+}

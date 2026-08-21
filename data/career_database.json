@@ -1,0 +1,1148 @@
+{
+  "careers": [
+    {
+      "id": "ai_engineer",
+      "name": "AI Engineer",
+      "category": "Artificial Intelligence & ML",
+      "description": "Designs, builds, and deploys artificial intelligence systems and neural networks to solve complex problems and automate intelligent workflows.",
+      "required_skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Deep Learning",
+        "NLP",
+        "Machine Learning",
+        "Mathematics & Statistics",
+        "API Integration"
+      ],
+      "useful_interests": [
+        "Artificial Intelligence",
+        "Neural Networks",
+        "Research",
+        "Algorithms",
+        "Automation",
+        "Robotics"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Artificial Intelligence",
+        "Data Science",
+        "Information Technology",
+        "Mathematics",
+        "Electrical Engineering"
+      ],
+      "optional_skills": [
+        "CUDA",
+        "LangChain",
+        "Vector Databases",
+        "MLOps",
+        "Transformers",
+        "Computer Vision",
+        "Docker"
+      ],
+      "market_demand": "Very High",
+      "salary_range": "$95,000 - $165,000",
+      "responsibilities": [
+        "Develop deep learning models and fine-tune large language models",
+        "Implement end-to-end AI pipelines from data preprocessing to inference",
+        "Optimize neural network architectures for latency and memory constraints",
+        "Integrate AI services into production applications with robust APIs"
+      ]
+    },
+    {
+      "id": "software_developer",
+      "name": "Software Developer",
+      "category": "Software Engineering",
+      "description": "Architects and implements high-quality computer software, desktop tools, and distributed application systems.",
+      "required_skills": [
+        "Python",
+        "Data Structures",
+        "Algorithms",
+        "Object-Oriented Programming",
+        "Git",
+        "SQL",
+        "Software Testing",
+        "Problem Solving"
+      ],
+      "useful_interests": [
+        "Coding",
+        "System Design",
+        "Problem Solving",
+        "Open Source",
+        "Algorithms",
+        "Software Architecture"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Software Engineering",
+        "Computer Applications",
+        "Electronics"
+      ],
+      "optional_skills": [
+        "C++",
+        "Java",
+        "Design Patterns",
+        "CI/CD",
+        "Linux",
+        "REST APIs",
+        "Debugging"
+      ],
+      "market_demand": "High",
+      "salary_range": "$80,000 - $135,000",
+      "responsibilities": [
+        "Write clean, maintainable, and efficient code following SOLID principles",
+        "Design scalable application architecture and database schemas",
+        "Perform unit testing, code reviews, and automated testing",
+        "Collaborate with cross-functional teams to deliver software features"
+      ]
+    },
+    {
+      "id": "backend_developer",
+      "name": "Backend Developer",
+      "category": "Web & Cloud Services",
+      "description": "Builds server-side logic, data storage architectures, high-throughput microservices, and secure APIs powering modern applications.",
+      "required_skills": [
+        "Python",
+        "Node.js",
+        "SQL",
+        "REST APIs",
+        "PostgreSQL",
+        "Database Design",
+        "Authentication & Security",
+        "Git"
+      ],
+      "useful_interests": [
+        "Backend Systems",
+        "Databases",
+        "APIs",
+        "Distributed Systems",
+        "Cloud Computing",
+        "Server Architecture"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Software Engineering",
+        "Computer Applications"
+      ],
+      "optional_skills": [
+        "Redis",
+        "Docker",
+        "FastAPI",
+        "Django",
+        "Microservices",
+        "GraphQL",
+        "Kafka",
+        "Linux"
+      ],
+      "market_demand": "Very High",
+      "salary_range": "$85,000 - $140,000",
+      "responsibilities": [
+        "Develop robust RESTful and GraphQL APIs for client applications",
+        "Design, optimize, and maintain relational and NoSQL databases",
+        "Implement authentication, authorization, caching, and rate limiting",
+        "Ensure server-side scalability, reliability, and security"
+      ]
+    },
+    {
+      "id": "frontend_developer",
+      "name": "Frontend Developer",
+      "category": "Web & UI Engineering",
+      "description": "Creates responsive, accessible, interactive user interfaces and client-side applications with modern web standards and design systems.",
+      "required_skills": [
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "React",
+        "TypeScript",
+        "Responsive Design",
+        "Git",
+        "REST APIs"
+      ],
+      "useful_interests": [
+        "UI/UX Design",
+        "Web Development",
+        "Frontend Frameworks",
+        "Design Systems",
+        "Web Performance"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Multimedia & Web Design",
+        "Computer Applications"
+      ],
+      "optional_skills": [
+        "Next.js",
+        "Tailwind CSS",
+        "Vue.js",
+        "State Management",
+        "Testing (Jest/Cypress)",
+        "Figma",
+        "Web Accessibility (a11y)"
+      ],
+      "market_demand": "High",
+      "salary_range": "$75,000 - $130,000",
+      "responsibilities": [
+        "Build rich, responsive, and cross-browser compatible user interfaces",
+        "Translate UI/UX wireframes and mockups into pixel-perfect web components",
+        "Manage complex client-side state and integrate asynchronous backend APIs",
+        "Optimize web performance, Core Web Vitals, and accessibility"
+      ]
+    },
+    {
+      "id": "data_scientist",
+      "name": "Data Scientist",
+      "category": "Data Science & Analytics",
+      "description": "Applies statistical modeling, machine learning, and exploratory data analysis to discover patterns and guide strategic decision-making.",
+      "required_skills": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Scikit-Learn",
+        "SQL",
+        "Statistics & Probability",
+        "Data Visualization",
+        "Machine Learning"
+      ],
+      "useful_interests": [
+        "Data Analysis",
+        "Predictive Modeling",
+        "Mathematics",
+        "Research",
+        "Business Intelligence",
+        "Experimentation"
+      ],
+      "compatible_education": [
+        "Data Science",
+        "Computer Science",
+        "Statistics",
+        "Mathematics",
+        "Economics",
+        "Information Technology"
+      ],
+      "optional_skills": [
+        "R",
+        "Tableau",
+        "Power BI",
+        "Seaborn",
+        "Feature Engineering",
+        "Big Data (Spark)",
+        "Deep Learning"
+      ],
+      "market_demand": "Very High",
+      "salary_range": "$90,000 - $150,000",
+      "responsibilities": [
+        "Extract, clean, and transform structured and unstructured data from diverse sources",
+        "Formulate hypotheses and conduct rigorous statistical hypothesis testing",
+        "Train predictive machine learning models and evaluate performance metrics",
+        "Communicate insights and business recommendations through dashboards and presentations"
+      ]
+    },
+    {
+      "id": "cybersecurity_engineer",
+      "name": "Cybersecurity Engineer",
+      "category": "Security & Infrastructure",
+      "description": "Protects networks, computer systems, and sensitive data from cyber threats, vulnerabilities, intrusions, and security breaches.",
+      "required_skills": [
+        "Network Security",
+        "Linux",
+        "Cryptography",
+        "Ethical Hacking",
+        "Vulnerability Assessment",
+        "Python",
+        "Security Protocols",
+        "Incident Response"
+      ],
+      "useful_interests": [
+        "Cybersecurity",
+        "Penetration Testing",
+        "Threat Hunting",
+        "Cryptography",
+        "Network Defense",
+        "Reverse Engineering"
+      ],
+      "compatible_education": [
+        "Cybersecurity",
+        "Computer Science",
+        "Information Technology",
+        "Computer Forensics",
+        "Electronics"
+      ],
+      "optional_skills": [
+        "Wireshark",
+        "Burp Suite",
+        "SIEM Tools",
+        "Metasploit",
+        "Cloud Security",
+        "OWASP Top 10",
+        "Firewall Configuration"
+      ],
+      "market_demand": "Very High",
+      "salary_range": "$90,000 - $155,000",
+      "responsibilities": [
+        "Conduct penetration testing, code security reviews, and vulnerability scans",
+        "Implement robust firewalls, encryption mechanisms, and identity management",
+        "Monitor intrusion detection systems and manage incident response procedures",
+        "Ensure organizational compliance with security standards (ISO 27001, SOC 2)"
+      ]
+    },
+    {
+      "id": "cloud_engineer",
+      "name": "Cloud Engineer",
+      "category": "Cloud & Infrastructure",
+      "description": "Architects, provisions, and manages scalable, highly available, and cost-optimized infrastructure on modern cloud platforms.",
+      "required_skills": [
+        "AWS",
+        "Linux",
+        "Terraform",
+        "Docker",
+        "Cloud Architecture",
+        "Networking Fundamentals",
+        "Python",
+        "Git"
+      ],
+      "useful_interests": [
+        "Cloud Computing",
+        "Infrastructure",
+        "Automation",
+        "Scalability",
+        "Serverless",
+        "Cost Optimization"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Cloud Computing",
+        "Software Engineering"
+      ],
+      "optional_skills": [
+        "Azure",
+        "GCP",
+        "Kubernetes",
+        "IAM Security",
+        "CI/CD Pipelines",
+        "Serverless (AWS Lambda)",
+        "Ansible"
+      ],
+      "market_demand": "High",
+      "salary_range": "$90,000 - $150,000",
+      "responsibilities": [
+        "Design multi-tier and fault-tolerant cloud architectures on AWS/Azure/GCP",
+        "Automate cloud resource provisioning using Infrastructure as Code (Terraform)",
+        "Configure VPCs, subnets, load balancers, and security groups",
+        "Monitor cloud infrastructure performance, reliability, and billing expenditure"
+      ]
+    },
+    {
+      "id": "devops_engineer",
+      "name": "DevOps Engineer",
+      "category": "DevOps & SRE",
+      "description": "Bridges the gap between software development and IT operations through continuous integration, delivery pipelines, and automated monitoring.",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux",
+        "Git",
+        "Bash Scripting",
+        "Cloud Fundamentals",
+        "Monitoring & Logging"
+      ],
+      "useful_interests": [
+        "DevOps",
+        "Automation",
+        "Continuous Integration",
+        "Site Reliability",
+        "Containerization",
+        "Infrastructure"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Software Engineering",
+        "Systems Engineering"
+      ],
+      "optional_skills": [
+        "Jenkins",
+        "GitHub Actions",
+        "Terraform",
+        "Prometheus & Grafana",
+        "Python",
+        "Helm",
+        "Ansible"
+      ],
+      "market_demand": "Very High",
+      "salary_range": "$95,000 - $155,000",
+      "responsibilities": [
+        "Build and optimize automated CI/CD deployment pipelines",
+        "Orchestrate containerized microservices using Kubernetes and Docker",
+        "Maintain system uptime, observability, logging, and alerting systems",
+        "Automate infrastructure provisioning and release management processes"
+      ]
+    },
+    {
+      "id": "mobile_developer",
+      "name": "Mobile Developer",
+      "category": "Mobile App Engineering",
+      "description": "Develops native and cross-platform mobile applications with fluid user interfaces and seamless hardware integration.",
+      "required_skills": [
+        "Flutter",
+        "Dart",
+        "Mobile UI Design",
+        "REST APIs",
+        "Git",
+        "State Management",
+        "Local Storage",
+        "Debugging"
+      ],
+      "useful_interests": [
+        "Mobile Apps",
+        "App Development",
+        "User Experience",
+        "Flutter",
+        "iOS/Android",
+        "Hardware Integration"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Software Engineering",
+        "Computer Applications"
+      ],
+      "optional_skills": [
+        "React Native",
+        "Kotlin",
+        "Swift",
+        "Firebase",
+        "App Store Deployment",
+        "Push Notifications",
+        "Offline Sync"
+      ],
+      "market_demand": "High",
+      "salary_range": "$80,000 - $135,000",
+      "responsibilities": [
+        "Create responsive, fluid, and robust mobile applications for Android & iOS",
+        "Integrate native device sensors, camera, GPS, and local SQLite storage",
+        "Implement state management architectures (Bloc, Riverpod, Provider)",
+        "Deploy and maintain mobile applications on Google Play Store and Apple App Store"
+      ]
+    },
+    {
+      "id": "full_stack_developer",
+      "name": "Full Stack Developer",
+      "category": "Software & Web Engineering",
+      "description": "Master of both frontend user interfaces and backend server architectures, delivering complete end-to-end web applications.",
+      "required_skills": [
+        "JavaScript",
+        "Python",
+        "React",
+        "Node.js",
+        "SQL",
+        "REST APIs",
+        "Git",
+        "HTML5 & CSS3"
+      ],
+      "useful_interests": [
+        "Full Stack Development",
+        "Web Development",
+        "System Design",
+        "End-to-End Projects",
+        "Product Development"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Software Engineering",
+        "Computer Applications"
+      ],
+      "optional_skills": [
+        "TypeScript",
+        "PostgreSQL",
+        "Docker",
+        "Next.js",
+        "Tailwind CSS",
+        "MongoDB",
+        "Authentication",
+        "Cloud Deployment"
+      ],
+      "market_demand": "Very High",
+      "salary_range": "$85,000 - $145,000",
+      "responsibilities": [
+        "Develop interactive frontend components and connect them to backend microservices",
+        "Design database schemas, write SQL queries, and implement ORM models",
+        "Implement end-to-end security, authentication, and error handling",
+        "Deploy and maintain full stack web applications on cloud infrastructure"
+      ]
+    },
+    {
+      "id": "data_analyst",
+      "name": "Data Analyst",
+      "category": "Data & Business Intelligence",
+      "description": "Interprets complex datasets, builds executive dashboards, and transforms raw numbers into clear actionable business intelligence.",
+      "required_skills": [
+        "SQL",
+        "Excel & Spreadsheets",
+        "Power BI",
+        "Python",
+        "Data Visualization",
+        "Descriptive Statistics",
+        "Data Cleaning",
+        "Communication"
+      ],
+      "useful_interests": [
+        "Data Analysis",
+        "Business Intelligence",
+        "Data Visualization",
+        "Trends Analysis",
+        "Problem Solving"
+      ],
+      "compatible_education": [
+        "Data Science",
+        "Computer Science",
+        "Information Technology",
+        "Business Analytics",
+        "Economics",
+        "Commerce"
+      ],
+      "optional_skills": [
+        "Tableau",
+        "Pandas",
+        "Matplotlib",
+        "SQL Server",
+        "DAX",
+        "Reporting",
+        "A/B Testing"
+      ],
+      "market_demand": "High",
+      "salary_range": "$65,000 - $110,000",
+      "responsibilities": [
+        "Write complex SQL queries to extract and aggregate business data",
+        "Clean, validate, and structure messy data sets for exploratory analysis",
+        "Design intuitive interactive dashboards and reports in Power BI / Tableau",
+        "Present analytical findings and KPI trends to business stakeholders"
+      ]
+    },
+    {
+      "id": "ml_engineer",
+      "name": "Machine Learning Engineer",
+      "category": "Artificial Intelligence & ML",
+      "description": "Researches, trains, optimizes, and productionizes scalable machine learning models with automated MLOps pipelines.",
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Scikit-Learn",
+        "PyTorch",
+        "Data Preprocessing",
+        "Model Evaluation",
+        "SQL",
+        "Git"
+      ],
+      "useful_interests": [
+        "Machine Learning",
+        "Algorithms",
+        "Mathematics",
+        "Model Deployment",
+        "Data Engineering",
+        "Automation"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Artificial Intelligence",
+        "Data Science",
+        "Information Technology",
+        "Mathematics"
+      ],
+      "optional_skills": [
+        "MLflow",
+        "Docker",
+        "Feature Engineering",
+        "TensorFlow",
+        "FastAPI",
+        "Cloud ML (SageMaker)",
+        "Hyperparameter Tuning"
+      ],
+      "market_demand": "Very High",
+      "salary_range": "$95,000 - $160,000",
+      "responsibilities": [
+        "Engineer informative features from complex datasets for model training",
+        "Implement, evaluate, and benchmark multiple ML algorithms",
+        "Package models into scalable inference microservices with REST endpoints",
+        "Set up automated model tracking, drift detection, and retraining pipelines"
+      ]
+    },
+    {
+      "id": "qa_automation_engineer",
+      "name": "QA / Test Automation Engineer",
+      "category": "Quality Assurance & Testing",
+      "description": "Develops automated testing suites, quality frameworks, and continuous validation pipelines to ensure software correctness and reliability.",
+      "required_skills": [
+        "Python",
+        "Selenium",
+        "PyTest",
+        "Software Testing",
+        "API Testing",
+        "Git",
+        "CI/CD",
+        "Test Automation"
+      ],
+      "useful_interests": [
+        "Quality Assurance",
+        "Testing",
+        "Automation",
+        "Debugging",
+        "Code Quality",
+        "Test Architecture"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Software Engineering",
+        "Computer Applications"
+      ],
+      "optional_skills": [
+        "Postman",
+        "Cypress",
+        "Performance Testing",
+        "Playwright",
+        "Docker",
+        "JIRA",
+        "SQL"
+      ],
+      "market_demand": "High",
+      "salary_range": "5,000 - 25,000",
+      "responsibilities": [
+        "Design, develop, and maintain automated end-to-end and API testing suites",
+        "Integrate test automation into CI/CD pipelines to validate pull requests",
+        "Perform exploratory testing and maintain comprehensive test coverage reports",
+        "Identify, isolate, and track software defects with reproducible steps"
+      ]
+    },
+    {
+      "id": "ui_ux_designer",
+      "name": "UI/UX Designer",
+      "category": "Design & User Experience",
+      "description": "Creates user-centric interfaces, intuitive workflows, visual design systems, and interactive prototypes for digital products.",
+      "required_skills": [
+        "Figma",
+        "UI/UX Design",
+        "Wireframing",
+        "Prototyping",
+        "User Research",
+        "Design Systems",
+        "Usability Testing",
+        "HTML5 & CSS3"
+      ],
+      "useful_interests": [
+        "UI/UX Design",
+        "Visual Design",
+        "Typography",
+        "User Psychology",
+        "Product Design",
+        "Creativity"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Design",
+        "Human-Computer Interaction",
+        "Multimedia"
+      ],
+      "optional_skills": [
+        "Adobe XD",
+        "Accessibility (a11y)",
+        "Responsive Design",
+        "Information Architecture",
+        "Design Thinking",
+        "Interaction Design",
+        "Storyboarding"
+      ],
+      "market_demand": "High",
+      "salary_range": "0,000 - 20,000",
+      "responsibilities": [
+        "Create wireframes, user journeys, mockups, and interactive prototypes in Figma",
+        "Conduct user research and usability testing to iterate on product experiences",
+        "Develop and maintain accessible design systems and component guidelines",
+        "Collaborate with product managers and engineers during design handoff"
+      ]
+    },
+    {
+      "id": "database_administrator",
+      "name": "Database Administrator",
+      "category": "Database & Infrastructure",
+      "description": "Manages, optimizes, secures, and maintains database management systems ensuring maximum availability, performance, and data integrity.",
+      "required_skills": [
+        "SQL",
+        "PostgreSQL",
+        "Database Administration",
+        "Database Design",
+        "Performance Tuning",
+        "Backup & Recovery",
+        "Linux",
+        "Data Security"
+      ],
+      "useful_interests": [
+        "Databases",
+        "Performance Optimization",
+        "Data Storage",
+        "System Administration",
+        "Reliability",
+        "Security"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Database Administration",
+        "Computer Applications"
+      ],
+      "optional_skills": [
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "Oracle DB",
+        "Replication & Sharding",
+        "Bash",
+        "Cloud Databases"
+      ],
+      "market_demand": "Moderate to High",
+      "salary_range": "0,000 - 35,000",
+      "responsibilities": [
+        "Install, configure, patch, and monitor database servers and clusters",
+        "Implement automated backup, disaster recovery, and data retention policies",
+        "Optimize complex SQL queries, index structures, and execution plans",
+        "Enforce database role-based access control and data encryption standards"
+      ]
+    },
+    {
+      "id": "site_reliability_engineer",
+      "name": "Site Reliability Engineer",
+      "category": "DevOps & Reliability",
+      "description": "Applies software engineering practices to infrastructure operations, ensuring high availability, fault tolerance, and scalable observability.",
+      "required_skills": [
+        "Linux",
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "Observability & Monitoring",
+        "CI/CD",
+        "Incident Management",
+        "Cloud Computing"
+      ],
+      "useful_interests": [
+        "Reliability Engineering",
+        "System Architecture",
+        "Automation",
+        "Distributed Systems",
+        "Incident Response",
+        "Networking"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Software Engineering",
+        "Network Engineering"
+      ],
+      "optional_skills": [
+        "Prometheus & Grafana",
+        "Terraform",
+        "Go",
+        "SLO & SLA Management",
+        "Ansible",
+        "Bash",
+        "Chaos Engineering"
+      ],
+      "market_demand": "Very High",
+      "salary_range": "00,000 - 60,000",
+      "responsibilities": [
+        "Maintain service level objectives (SLOs) and error budgets for production systems",
+        "Build automated monitoring, alerting, and telemetry dashboards with Prometheus & Grafana",
+        "Participate in on-call rotation, post-mortem root cause analysis, and chaos experiments",
+        "Automate infrastructure provisioning and continuous release pipelines"
+      ]
+    },
+    {
+      "id": "blockchain_developer",
+      "name": "Blockchain Developer",
+      "category": "Web3 & Distributed Ledgers",
+      "description": "Designs and develops decentralized applications (dApps), cryptographic protocols, and secure smart contracts on distributed ledgers.",
+      "required_skills": [
+        "Solidity",
+        "Smart Contracts",
+        "Cryptography",
+        "JavaScript",
+        "Web3.js & Ethers.js",
+        "Data Structures",
+        "Git",
+        "Security Auditing"
+      ],
+      "useful_interests": [
+        "Blockchain",
+        "Cryptography",
+        "Decentralized Systems",
+        "Smart Contracts",
+        "DeFi",
+        "Economics & Game Theory"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Software Engineering",
+        "Mathematics",
+        "Information Technology"
+      ],
+      "optional_skills": [
+        "Rust",
+        "Truffle & Hardhat",
+        "Ethereum",
+        "IPFS",
+        "TypeScript",
+        "Node.js",
+        "Zero-Knowledge Proofs"
+      ],
+      "market_demand": "High",
+      "salary_range": "5,000 - 60,000",
+      "responsibilities": [
+        "Write and unit test secure Solidity smart contracts for decentralized platforms",
+        "Conduct thorough gas optimization and formal security verification audits",
+        "Build Web3 frontend interfaces connecting crypto wallets with smart contracts",
+        "Implement cryptographic primitives and signature verification routines"
+      ]
+    },
+    {
+      "id": "game_developer",
+      "name": "Game Developer",
+      "category": "Game Design & Interactive Media",
+      "description": "Builds engaging video games, interactive real-time experiences, physics engines, and graphics simulations for consoles, PC, and mobile.",
+      "required_skills": [
+        "C++",
+        "C#",
+        "Unity",
+        "Game Physics",
+        "Object-Oriented Programming",
+        "Algorithms",
+        "Linear Algebra",
+        "Git"
+      ],
+      "useful_interests": [
+        "Game Development",
+        "Graphics Programming",
+        "Animation",
+        "Storytelling",
+        "Interactive Media",
+        "Physics Simulation"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Game Design",
+        "Software Engineering",
+        "Computer Graphics",
+        "Multimedia"
+      ],
+      "optional_skills": [
+        "Unreal Engine",
+        "OpenGL & DirectX",
+        "3D Math",
+        "Shader Programming (GLSL/HLSL)",
+        "AI for Games",
+        "Game Audio",
+        "Blender"
+      ],
+      "market_demand": "Moderate",
+      "salary_range": "5,000 - 30,000",
+      "responsibilities": [
+        "Program gameplay mechanics, character controllers, and state machines",
+        "Implement real-time game physics, collision detection, and raycasting",
+        "Profile and optimize frame rates, memory footprints, and asset pipelines",
+        "Write custom shader programs and visual effects for immersive gameplay"
+      ]
+    },
+    {
+      "id": "embedded_systems_engineer",
+      "name": "Embedded Systems Engineer",
+      "category": "Hardware & Embedded Software",
+      "description": "Develops firmware, device drivers, and real-time software operating closely with microcontrollers and custom electronic hardware.",
+      "required_skills": [
+        "C",
+        "C++",
+        "Microcontrollers",
+        "Embedded Systems",
+        "Communication Protocols (I2C/SPI/UART)",
+        "RTOS",
+        "Debugging with Oscilloscopes",
+        "Git"
+      ],
+      "useful_interests": [
+        "Hardware",
+        "Robotics",
+        "IoT",
+        "Microcontrollers",
+        "Electronics",
+        "Low-Level Programming"
+      ],
+      "compatible_education": [
+        "Electrical Engineering",
+        "Electronics & Communication",
+        "Computer Engineering",
+        "Computer Science",
+        "Mechatronics"
+      ],
+      "optional_skills": [
+        "ARM Cortex",
+        "Linux Kernel & Drivers",
+        "PCB Design Basics",
+        "Python",
+        "Assembly",
+        "IoT Protocols (MQTT)",
+        "FPGA"
+      ],
+      "market_demand": "High",
+      "salary_range": "5,000 - 40,000",
+      "responsibilities": [
+        "Write low-level firmware and board support packages in C/C++",
+        "Interface sensors and actuators using I2C, SPI, UART, and CAN protocols",
+        "Implement deterministic multitasking tasks on Real-Time Operating Systems (FreeRTOS)",
+        "Debug hardware and timing issues using logic analyzers and oscilloscopes"
+      ]
+    },
+    {
+      "id": "bi_analyst",
+      "name": "Business Intelligence Analyst",
+      "category": "Data & Business Intelligence",
+      "description": "Transforms raw enterprise data into actionable business insights, interactive executive dashboards, and strategic performance metrics.",
+      "required_skills": [
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "Data Analysis",
+        "Data Modeling",
+        "Excel & Spreadsheets",
+        "Business Metrics (KPIs)",
+        "Data Visualization"
+      ],
+      "useful_interests": [
+        "Business Strategy",
+        "Data Analytics",
+        "Visualization",
+        "Reporting",
+        "Economics",
+        "Decision Science"
+      ],
+      "compatible_education": [
+        "Data Science",
+        "Information Systems",
+        "Business Analytics",
+        "Computer Science",
+        "Economics",
+        "Commerce"
+      ],
+      "optional_skills": [
+        "DAX",
+        "Python",
+        "ETL Pipelines",
+        "Data Warehousing",
+        "Snowflake",
+        "Statistics",
+        "Storytelling with Data"
+      ],
+      "market_demand": "Very High",
+      "salary_range": "0,000 - 15,000",
+      "responsibilities": [
+        "Design interactive Power BI and Tableau dashboards tracking core business KPIs",
+        "Write complex SQL analytical queries with window functions and aggregations",
+        "Build multidimensional star/snowflake data models for BI reporting",
+        "Present quantitative data insights to business stakeholders and executive leadership"
+      ]
+    },
+    {
+      "id": "technical_product_manager",
+      "name": "Product Manager (Technical)",
+      "category": "Product & Technical Strategy",
+      "description": "Bridges engineering, user experience, and business strategy to define product roadmaps, technical requirements, and feature execution.",
+      "required_skills": [
+        "Product Strategy",
+        "Agile & Scrum",
+        "User Research",
+        "Technical Communication",
+        "Roadmap Planning",
+        "Data Analysis",
+        "API Concepts",
+        "Problem Solving"
+      ],
+      "useful_interests": [
+        "Product Management",
+        "Tech Strategy",
+        "User Experience",
+        "Software Architecture",
+        "Leadership",
+        "Innovation"
+      ],
+      "compatible_education": [
+        "Computer Science",
+        "Information Technology",
+        "Business Administration",
+        "Software Engineering",
+        "Management Studies"
+      ],
+      "optional_skills": [
+        "JIRA",
+        "SQL",
+        "A/B Testing",
+        "System Architecture Basics",
+        "Wireframing",
+        "Product Analytics (Mixpanel/Amplitude)",
+        "Financial Modeling"
+      ],
+      "market_demand": "Very High",
+      "salary_range": "5,000 - 55,000",
+      "responsibilities": [
+        "Author detailed product requirement documents (PRDs) and user stories",
+        "Prioritize product backlogs using data-driven impact-effort scoring matrices",
+        "Coordinate sprint planning, standups, and retrospective meetings with engineering",
+        "Analyze product analytics metrics, funnel drop-offs, and user feedback"
+      ]
+    },
+    {
+      "id": "robotics_engineer",
+      "name": "Robotics Engineer",
+      "category": "Robotics & Automation",
+      "description": "Designs, programs, and tests autonomous robotic systems, motion planning algorithms, perception pipelines, and control systems.",
+      "required_skills": [
+        "Python",
+        "C++",
+        "ROS (Robot Operating System)",
+        "Kinematics & Dynamics",
+        "Computer Vision",
+        "Control Systems",
+        "Mathematics & Linear Algebra",
+        "Linux"
+      ],
+      "useful_interests": [
+        "Robotics",
+        "Automation",
+        "Mechanical Systems",
+        "Computer Vision",
+        "Artificial Intelligence",
+        "Sensors"
+      ],
+      "compatible_education": [
+        "Robotics",
+        "Mechatronics",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Computer Science"
+      ],
+      "optional_skills": [
+        "Gazebo Simulation",
+        "OpenCV",
+        "Path Planning (A*/RRT)",
+        "Sensor Fusion (Kalman Filters)",
+        "SLAM",
+        "Embedded C",
+        "PyTorch"
+      ],
+      "market_demand": "High",
+      "salary_range": "0,000 - 45,000",
+      "responsibilities": [
+        "Develop ROS nodes for robot perception, localization, and trajectory execution",
+        "Simulate robotic kinematics and physics dynamics in Gazebo environment",
+        "Implement computer vision algorithms for object recognition and obstacle avoidance",
+        "Tune PID and state-space controllers for precision motor actuation"
+      ]
+    },
+    {
+      "id": "technical_writer",
+      "name": "Technical Writer",
+      "category": "Technical Communication & Documentation",
+      "description": "Produces clear, comprehensive technical documentation, developer API guides, architecture overviews, and tutorials for software products.",
+      "required_skills": [
+        "Technical Writing",
+        "API Documentation",
+        "Markdown & Docs-as-Code",
+        "Git",
+        "Software Concepts",
+        "Grammar & Editing",
+        "Information Architecture",
+        "Content Strategy"
+      ],
+      "useful_interests": [
+        "Writing",
+        "Documentation",
+        "Teaching",
+        "Open Source",
+        "Software Engineering",
+        "Communication"
+      ],
+      "compatible_education": [
+        "English",
+        "Technical Communication",
+        "Computer Science",
+        "Information Technology",
+        "Journalism"
+      ],
+      "optional_skills": [
+        "Swagger / OpenAPI",
+        "HTML5 & CSS3",
+        "Python Basics",
+        "Static Site Generators (Docusaurus/MkDocs)",
+        "Diagramming (Mermaid/PlantUML)",
+        "Video Tutorials",
+        "JIRA"
+      ],
+      "market_demand": "Moderate to High",
+      "salary_range": "5,000 - 10,000",
+      "responsibilities": [
+        "Write and maintain developer-facing REST API reference documentation and guides",
+        "Create tutorials, onboarding walkthroughs, and system architecture diagrams",
+        "Manage docs-as-code workflows using Git, Markdown, and static site generators",
+        "Collaborate with engineers and product teams to clarify complex technical concepts"
+      ]
+    },
+    {
+      "id": "it_support_engineer",
+      "name": "IT Support / Systems Engineer",
+      "category": "IT Operations & Infrastructure",
+      "description": "Provides enterprise technical support, manages operating systems, troubleshoots network infrastructure, and administers identity management.",
+      "required_skills": [
+        "Linux",
+        "Windows Server",
+        "Computer Networking",
+        "Troubleshooting & Diagnostics",
+        "Active Directory & IAM",
+        "Bash / PowerShell",
+        "Hardware & OS",
+        "Customer Support"
+      ],
+      "useful_interests": [
+        "IT Systems",
+        "Networking",
+        "Hardware",
+        "Troubleshooting",
+        "System Administration",
+        "Security"
+      ],
+      "compatible_education": [
+        "Information Technology",
+        "Computer Applications",
+        "Computer Science",
+        "Network Engineering"
+      ],
+      "optional_skills": [
+        "Virtualization (VMware/VirtualBox)",
+        "Cloud Fundamentals (AWS/Azure)",
+        "Ticketing Systems (ServiceNow/Jira)",
+        "Network Protocols (TCP/IP/DNS/DHCP)",
+        "VPN Configuration",
+        "Security Best Practices",
+        "Automation Scripting"
+      ],
+      "market_demand": "High",
+      "salary_range": "0,000 - 00,000",
+      "responsibilities": [
+        "Diagnose and resolve hardware, software, and networking issues for users",
+        "Configure user accounts, permissions, and group policies in Active Directory",
+        "Deploy, configure, and patch Linux and Windows client and server machines",
+        "Automate routine maintenance and backup tasks using Bash and PowerShell scripts"
+      ]
+    }
+  ]
+}

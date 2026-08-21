@@ -1,0 +1,35 @@
+{
+  "name": "Modern Professional",
+  "theme": "dark_modern",
+  "primary_color": "#1e40af",
+  "accent_color": "#2563eb",
+  "text_color": "#0f172a",
+  "font_family": "Segoe UI, Inter, Roboto, Arial, sans-serif",
+  "sections_order": [
+    "header",
+    "summary",
+    "technical_skills",
+    "projects",
+    "education",
+    "certifications",
+    "achievements"
+  ],
+  "default_sections": {
+    "header": {
+      "include_phone": true,
+      "include_email": true,
+      "include_github": true,
+      "include_linkedin": true,
+      "include_location": true
+    },
+    "technical_skills": {
+      "group_by_category": true,
+      "categories": [
+        "Programming Languages",
+        "Frameworks & Libraries",
+        "Databases & Tools",
+        "Developer Tools & Platforms"
+      ]
+    }
+  }
+}

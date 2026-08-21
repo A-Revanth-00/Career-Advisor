@@ -1,0 +1,25 @@
+{
+  "id": "compact",
+  "name": "Compact One-Page",
+  "theme": "compact_emerald",
+  "description": "Dense one-page layout with tight line spacing and compact section headers designed for students with concise projects.",
+  "primary_color": "#047857",
+  "accent_color": "#059669",
+  "header_color": "#064e3b",
+  "text_color": "#0f172a",
+  "muted_color": "#334155",
+  "font_family": "Inter, -apple-system, 'Segoe UI', Arial, sans-serif",
+  "font_size_base": "11.5px",
+  "padding": "16px 20px",
+  "header_align": "left",
+  "section_divider": "1px solid #a7f3d0",
+  "sections_order": [
+    "header",
+    "summary",
+    "technical_skills",
+    "education",
+    "projects",
+    "certifications",
+    "achievements"
+  ]
+}

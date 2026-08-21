@@ -1,0 +1,3536 @@
+{
+  "tasks_by_skill": {
+    "3D Math": {
+      "skill": "3D Math",
+      "phase": 2,
+      "title": "Interactive Mechanics & Simulation with 3D Math",
+      "description": "Implement gameplay logic, real-time physics, graphics rendering, and interactive systems using 3D Math.",
+      "category": "Game Development",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "3D Math Official Technical Documentation",
+        "Interactive 3D Math Guided Labs & Exercises"
+      ]
+    },
+    "A/B Testing": {
+      "skill": "A/B Testing",
+      "phase": 2,
+      "title": "Test Automation & Quality Validation with A/B Testing",
+      "description": "Build automated test cases, validate system behavior, ensure regression stability, and track defects with A/B Testing.",
+      "category": "Quality Assurance & Testing",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "A/B Testing Official Technical Documentation",
+        "Interactive A/B Testing Guided Labs & Exercises"
+      ]
+    },
+    "AI for Games": {
+      "skill": "AI for Games",
+      "phase": 2,
+      "title": "Master AI for Games Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for AI for Games.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "AI for Games Official Technical Documentation",
+        "Interactive AI for Games Guided Labs & Exercises"
+      ]
+    },
+    "API Concepts": {
+      "skill": "API Concepts",
+      "phase": 1,
+      "title": "Master API Concepts Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for API Concepts.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "API Concepts Official Technical Documentation",
+        "Interactive API Concepts Guided Labs & Exercises"
+      ]
+    },
+    "API Documentation": {
+      "skill": "API Documentation",
+      "phase": 1,
+      "title": "Master API Documentation Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for API Documentation.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "API Documentation Official Technical Documentation",
+        "Interactive API Documentation Guided Labs & Exercises"
+      ]
+    },
+    "API Integration": {
+      "skill": "API Integration",
+      "phase": 2,
+      "title": "Master API Integration Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for API Integration.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "API Integration Official Technical Documentation",
+        "Interactive API Integration Guided Labs & Exercises"
+      ]
+    },
+    "API Testing": {
+      "skill": "API Testing",
+      "phase": 2,
+      "title": "Test Automation & Quality Validation with API Testing",
+      "description": "Build automated test cases, validate system behavior, ensure regression stability, and track defects with API Testing.",
+      "category": "Quality Assurance & Testing",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "API Testing Official Technical Documentation",
+        "Interactive API Testing Guided Labs & Exercises"
+      ]
+    },
+    "ARM Cortex": {
+      "skill": "ARM Cortex",
+      "phase": 1,
+      "title": "Master ARM Cortex Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for ARM Cortex.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "ARM Cortex Official Technical Documentation",
+        "Interactive ARM Cortex Guided Labs & Exercises"
+      ]
+    },
+    "AWS": {
+      "skill": "AWS",
+      "phase": 2,
+      "title": "Infrastructure Automation & Operations with AWS",
+      "description": "Configure cloud deployments, monitoring, automation workflows, and resilient architecture using AWS.",
+      "category": "Cloud & DevOps",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "AWS Official Technical Documentation",
+        "Interactive AWS Guided Labs & Exercises"
+      ]
+    },
+    "Accessibility (a11y)": {
+      "skill": "Accessibility (a11y)",
+      "phase": 1,
+      "title": "Master Accessibility (a11y) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Accessibility (a11y).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Accessibility (a11y) Official Technical Documentation",
+        "Interactive Accessibility (a11y) Guided Labs & Exercises"
+      ]
+    },
+    "Active Directory & IAM": {
+      "skill": "Active Directory & IAM",
+      "phase": 1,
+      "title": "Master Active Directory & IAM Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Active Directory & IAM.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Active Directory & IAM Official Technical Documentation",
+        "Interactive Active Directory & IAM Guided Labs & Exercises"
+      ]
+    },
+    "Adobe XD": {
+      "skill": "Adobe XD",
+      "phase": 2,
+      "title": "Master Core Competencies in Adobe XD",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Adobe XD.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Adobe XD Official Technical Documentation",
+        "Interactive Adobe XD Guided Labs & Exercises"
+      ]
+    },
+    "Agile & Scrum": {
+      "skill": "Agile & Scrum",
+      "phase": 1,
+      "title": "Master Agile & Scrum Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Agile & Scrum.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Agile & Scrum Official Technical Documentation",
+        "Interactive Agile & Scrum Guided Labs & Exercises"
+      ]
+    },
+    "Algorithms": {
+      "skill": "Algorithms",
+      "phase": 1,
+      "title": "Algorithmic Design Patterns & Complexity Analysis",
+      "description": "Analyze Big-O time/space complexity; master sorting, two pointers, sliding window, binary search, DFS/BFS, and dynamic programming.",
+      "category": "Programming Languages",
+      "estimated_hours": 16.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Algorithms Official Technical Documentation",
+        "Interactive Algorithms Guided Labs & Exercises"
+      ]
+    },
+    "Ansible": {
+      "skill": "Ansible",
+      "phase": 2,
+      "title": "Infrastructure Automation & Operations with Ansible",
+      "description": "Configure cloud deployments, monitoring, automation workflows, and resilient architecture using Ansible.",
+      "category": "Cloud & DevOps",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Ansible Official Technical Documentation",
+        "Interactive Ansible Guided Labs & Exercises"
+      ]
+    },
+    "App Store Deployment": {
+      "skill": "App Store Deployment",
+      "phase": 2,
+      "title": "Master App Store Deployment Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for App Store Deployment.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "App Store Deployment Official Technical Documentation",
+        "Interactive App Store Deployment Guided Labs & Exercises"
+      ]
+    },
+    "Assembly": {
+      "skill": "Assembly",
+      "phase": 2,
+      "title": "Master Core Competencies in Assembly",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Assembly.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Assembly Official Technical Documentation",
+        "Interactive Assembly Guided Labs & Exercises"
+      ]
+    },
+    "Authentication": {
+      "skill": "Authentication",
+      "phase": 1,
+      "title": "Master Authentication Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Authentication.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Authentication Official Technical Documentation",
+        "Interactive Authentication Guided Labs & Exercises"
+      ]
+    },
+    "Authentication & Security": {
+      "skill": "Authentication & Security",
+      "phase": 1,
+      "title": "Master Authentication & Security Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Authentication & Security.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Authentication & Security Official Technical Documentation",
+        "Interactive Authentication & Security Guided Labs & Exercises"
+      ]
+    },
+    "Automation Scripting": {
+      "skill": "Automation Scripting",
+      "phase": 1,
+      "title": "Master Automation Scripting Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Automation Scripting.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Automation Scripting Official Technical Documentation",
+        "Interactive Automation Scripting Guided Labs & Exercises"
+      ]
+    },
+    "Azure": {
+      "skill": "Azure",
+      "phase": 2,
+      "title": "Master Azure Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Azure.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Azure Official Technical Documentation",
+        "Interactive Azure Guided Labs & Exercises"
+      ]
+    },
+    "Backup & Recovery": {
+      "skill": "Backup & Recovery",
+      "phase": 1,
+      "title": "Master Backup & Recovery Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Backup & Recovery.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Backup & Recovery Official Technical Documentation",
+        "Interactive Backup & Recovery Guided Labs & Exercises"
+      ]
+    },
+    "Bash": {
+      "skill": "Bash",
+      "phase": 1,
+      "title": "Master Core Competencies in Bash",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Bash.",
+      "category": "Core Engineering",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Bash Official Technical Documentation",
+        "Interactive Bash Guided Labs & Exercises"
+      ]
+    },
+    "Bash / PowerShell": {
+      "skill": "Bash / PowerShell",
+      "phase": 1,
+      "title": "Master Bash / PowerShell Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Bash / PowerShell.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Bash / PowerShell Official Technical Documentation",
+        "Interactive Bash / PowerShell Guided Labs & Exercises"
+      ]
+    },
+    "Bash Scripting": {
+      "skill": "Bash Scripting",
+      "phase": 1,
+      "title": "Master Bash Scripting Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Bash Scripting.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Bash Scripting Official Technical Documentation",
+        "Interactive Bash Scripting Guided Labs & Exercises"
+      ]
+    },
+    "Big Data (Spark)": {
+      "skill": "Big Data (Spark)",
+      "phase": 2,
+      "title": "Master Big Data (Spark) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Big Data (Spark).",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Big Data (Spark) Official Technical Documentation",
+        "Interactive Big Data (Spark) Guided Labs & Exercises"
+      ]
+    },
+    "Blender": {
+      "skill": "Blender",
+      "phase": 2,
+      "title": "Master Blender Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Blender.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Blender Official Technical Documentation",
+        "Interactive Blender Guided Labs & Exercises"
+      ]
+    },
+    "Burp Suite": {
+      "skill": "Burp Suite",
+      "phase": 2,
+      "title": "Master Burp Suite Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Burp Suite.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Burp Suite Official Technical Documentation",
+        "Interactive Burp Suite Guided Labs & Exercises"
+      ]
+    },
+    "Business Metrics (KPIs)": {
+      "skill": "Business Metrics (KPIs)",
+      "phase": 1,
+      "title": "Master Business Metrics (KPIs) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Business Metrics (KPIs).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Business Metrics (KPIs) Official Technical Documentation",
+        "Interactive Business Metrics (KPIs) Guided Labs & Exercises"
+      ]
+    },
+    "C": {
+      "skill": "C",
+      "phase": 1,
+      "title": "Master C Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for C.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "C Official Technical Documentation",
+        "Interactive C Guided Labs & Exercises"
+      ]
+    },
+    "C#": {
+      "skill": "C#",
+      "phase": 1,
+      "title": "Master C# Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for C#.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "C# Official Technical Documentation",
+        "Interactive C# Guided Labs & Exercises"
+      ]
+    },
+    "C++": {
+      "skill": "C++",
+      "phase": 1,
+      "title": "Master C++ Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for C++.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "C++ Official Technical Documentation",
+        "Interactive C++ Guided Labs & Exercises"
+      ]
+    },
+    "CI/CD": {
+      "skill": "CI/CD",
+      "phase": 1,
+      "title": "Master CI/CD Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for CI/CD.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "CI/CD Official Technical Documentation",
+        "Interactive CI/CD Guided Labs & Exercises"
+      ]
+    },
+    "CI/CD Pipelines": {
+      "skill": "CI/CD Pipelines",
+      "phase": 1,
+      "title": "Master CI/CD Pipelines Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for CI/CD Pipelines.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "CI/CD Pipelines Official Technical Documentation",
+        "Interactive CI/CD Pipelines Guided Labs & Exercises"
+      ]
+    },
+    "CSS3": {
+      "skill": "CSS3",
+      "phase": 1,
+      "title": "Master CSS3 Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for CSS3.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "CSS3 Official Technical Documentation",
+        "Interactive CSS3 Guided Labs & Exercises"
+      ]
+    },
+    "CUDA": {
+      "skill": "CUDA",
+      "phase": 1,
+      "title": "Master CUDA Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for CUDA.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "CUDA Official Technical Documentation",
+        "Interactive CUDA Guided Labs & Exercises"
+      ]
+    },
+    "Chaos Engineering": {
+      "skill": "Chaos Engineering",
+      "phase": 1,
+      "title": "Master Chaos Engineering Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Chaos Engineering.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Chaos Engineering Official Technical Documentation",
+        "Interactive Chaos Engineering Guided Labs & Exercises"
+      ]
+    },
+    "Cloud Architecture": {
+      "skill": "Cloud Architecture",
+      "phase": 1,
+      "title": "Master Cloud Architecture Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Cloud Architecture.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Cloud Architecture Official Technical Documentation",
+        "Interactive Cloud Architecture Guided Labs & Exercises"
+      ]
+    },
+    "Cloud Computing": {
+      "skill": "Cloud Computing",
+      "phase": 1,
+      "title": "Master Cloud Computing Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Cloud Computing.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Cloud Computing Official Technical Documentation",
+        "Interactive Cloud Computing Guided Labs & Exercises"
+      ]
+    },
+    "Cloud Databases": {
+      "skill": "Cloud Databases",
+      "phase": 1,
+      "title": "Master Cloud Databases Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Cloud Databases.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Cloud Databases Official Technical Documentation",
+        "Interactive Cloud Databases Guided Labs & Exercises"
+      ]
+    },
+    "Cloud Deployment": {
+      "skill": "Cloud Deployment",
+      "phase": 1,
+      "title": "Master Cloud Deployment Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Cloud Deployment.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Cloud Deployment Official Technical Documentation",
+        "Interactive Cloud Deployment Guided Labs & Exercises"
+      ]
+    },
+    "Cloud Fundamentals": {
+      "skill": "Cloud Fundamentals",
+      "phase": 1,
+      "title": "Master Cloud Fundamentals Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Cloud Fundamentals.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Cloud Fundamentals Official Technical Documentation",
+        "Interactive Cloud Fundamentals Guided Labs & Exercises"
+      ]
+    },
+    "Cloud Fundamentals (AWS/Azure)": {
+      "skill": "Cloud Fundamentals (AWS/Azure)",
+      "phase": 1,
+      "title": "Master Cloud Fundamentals (AWS/Azure) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Cloud Fundamentals (AWS/Azure).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Cloud Fundamentals (AWS/Azure) Official Technical Documentation",
+        "Interactive Cloud Fundamentals (AWS/Azure) Guided Labs & Exercises"
+      ]
+    },
+    "Cloud ML (SageMaker)": {
+      "skill": "Cloud ML (SageMaker)",
+      "phase": 1,
+      "title": "Master Cloud ML (SageMaker) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Cloud ML (SageMaker).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Cloud ML (SageMaker) Official Technical Documentation",
+        "Interactive Cloud ML (SageMaker) Guided Labs & Exercises"
+      ]
+    },
+    "Cloud Security": {
+      "skill": "Cloud Security",
+      "phase": 1,
+      "title": "Master Cloud Security Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Cloud Security.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Cloud Security Official Technical Documentation",
+        "Interactive Cloud Security Guided Labs & Exercises"
+      ]
+    },
+    "Communication": {
+      "skill": "Communication",
+      "phase": 1,
+      "title": "Master Communication Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Communication.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Communication Official Technical Documentation",
+        "Interactive Communication Guided Labs & Exercises"
+      ]
+    },
+    "Communication Protocols (I2C/SPI/UART)": {
+      "skill": "Communication Protocols (I2C/SPI/UART)",
+      "phase": 1,
+      "title": "Master Communication Protocols (I2C/SPI/UART) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Communication Protocols (I2C/SPI/UART).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Communication Protocols (I2C/SPI/UART) Official Technical Documentation",
+        "Interactive Communication Protocols (I2C/SPI/UART) Guided Labs & Exercises"
+      ]
+    },
+    "Computer Networking": {
+      "skill": "Computer Networking",
+      "phase": 1,
+      "title": "Master Computer Networking Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Computer Networking.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Computer Networking Official Technical Documentation",
+        "Interactive Computer Networking Guided Labs & Exercises"
+      ]
+    },
+    "Computer Vision": {
+      "skill": "Computer Vision",
+      "phase": 1,
+      "title": "Master Computer Vision Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Computer Vision.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Computer Vision Official Technical Documentation",
+        "Interactive Computer Vision Guided Labs & Exercises"
+      ]
+    },
+    "Content Strategy": {
+      "skill": "Content Strategy",
+      "phase": 1,
+      "title": "Master Content Strategy Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Content Strategy.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Content Strategy Official Technical Documentation",
+        "Interactive Content Strategy Guided Labs & Exercises"
+      ]
+    },
+    "Control Systems": {
+      "skill": "Control Systems",
+      "phase": 1,
+      "title": "Master Control Systems Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Control Systems.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Control Systems Official Technical Documentation",
+        "Interactive Control Systems Guided Labs & Exercises"
+      ]
+    },
+    "Cryptography": {
+      "skill": "Cryptography",
+      "phase": 1,
+      "title": "Master Cryptography Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Cryptography.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Cryptography Official Technical Documentation",
+        "Interactive Cryptography Guided Labs & Exercises"
+      ]
+    },
+    "Customer Support": {
+      "skill": "Customer Support",
+      "phase": 1,
+      "title": "Master Customer Support Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Customer Support.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Customer Support Official Technical Documentation",
+        "Interactive Customer Support Guided Labs & Exercises"
+      ]
+    },
+    "Cypress": {
+      "skill": "Cypress",
+      "phase": 1,
+      "title": "Master Cypress Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Cypress.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Cypress Official Technical Documentation",
+        "Interactive Cypress Guided Labs & Exercises"
+      ]
+    },
+    "DAX": {
+      "skill": "DAX",
+      "phase": 2,
+      "title": "Business Analytics & Strategic Reporting with DAX",
+      "description": "Extract business intelligence, build KPI tracking dashboards, and analyze key metrics with DAX.",
+      "category": "Business Intelligence & Analytics",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "DAX Official Technical Documentation",
+        "Interactive DAX Guided Labs & Exercises"
+      ]
+    },
+    "Dart": {
+      "skill": "Dart",
+      "phase": 1,
+      "title": "Master Dart Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Dart.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Dart Official Technical Documentation",
+        "Interactive Dart Guided Labs & Exercises"
+      ]
+    },
+    "Data Analysis": {
+      "skill": "Data Analysis",
+      "phase": 2,
+      "title": "Business Analytics & Strategic Reporting with Data Analysis",
+      "description": "Extract business intelligence, build KPI tracking dashboards, and analyze key metrics with Data Analysis.",
+      "category": "Business Intelligence & Analytics",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Data Analysis Official Technical Documentation",
+        "Interactive Data Analysis Guided Labs & Exercises"
+      ]
+    },
+    "Data Cleaning": {
+      "skill": "Data Cleaning",
+      "phase": 1,
+      "title": "Master Data Cleaning Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Data Cleaning.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Data Cleaning Official Technical Documentation",
+        "Interactive Data Cleaning Guided Labs & Exercises"
+      ]
+    },
+    "Data Modeling": {
+      "skill": "Data Modeling",
+      "phase": 2,
+      "title": "Master Core Competencies in Data Modeling",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Data Modeling.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Data Modeling Official Technical Documentation",
+        "Interactive Data Modeling Guided Labs & Exercises"
+      ]
+    },
+    "Data Preprocessing": {
+      "skill": "Data Preprocessing",
+      "phase": 1,
+      "title": "Master Data Preprocessing Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Data Preprocessing.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Data Preprocessing Official Technical Documentation",
+        "Interactive Data Preprocessing Guided Labs & Exercises"
+      ]
+    },
+    "Data Security": {
+      "skill": "Data Security",
+      "phase": 1,
+      "title": "Master Data Security Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Data Security.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Data Security Official Technical Documentation",
+        "Interactive Data Security Guided Labs & Exercises"
+      ]
+    },
+    "Data Structures": {
+      "skill": "Data Structures",
+      "phase": 1,
+      "title": "Fundamental Data Structures & Memory Layouts",
+      "description": "Implement arrays, linked lists, hash tables, stacks, queues, binary trees, heaps, and graphs from scratch.",
+      "category": "Programming Languages",
+      "estimated_hours": 16.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Data Structures Official Technical Documentation",
+        "Interactive Data Structures Guided Labs & Exercises"
+      ]
+    },
+    "Data Visualization": {
+      "skill": "Data Visualization",
+      "phase": 2,
+      "title": "Business Analytics & Strategic Reporting with Data Visualization",
+      "description": "Extract business intelligence, build KPI tracking dashboards, and analyze key metrics with Data Visualization.",
+      "category": "Business Intelligence & Analytics",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Data Visualization Official Technical Documentation",
+        "Interactive Data Visualization Guided Labs & Exercises"
+      ]
+    },
+    "Data Warehousing": {
+      "skill": "Data Warehousing",
+      "phase": 2,
+      "title": "Master Data Warehousing Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Data Warehousing.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Data Warehousing Official Technical Documentation",
+        "Interactive Data Warehousing Guided Labs & Exercises"
+      ]
+    },
+    "Database Administration": {
+      "skill": "Database Administration",
+      "phase": 2,
+      "title": "Master Database Administration Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Database Administration.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Database Administration Official Technical Documentation",
+        "Interactive Database Administration Guided Labs & Exercises"
+      ]
+    },
+    "Database Design": {
+      "skill": "Database Design",
+      "phase": 2,
+      "title": "Data Modeling & Query Optimization with Database Design",
+      "description": "Design schemas, write efficient queries, handle transactions, and optimize indexes with Database Design.",
+      "category": "Databases & Storage",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Database Design Official Technical Documentation",
+        "Interactive Database Design Guided Labs & Exercises"
+      ]
+    },
+    "Debugging": {
+      "skill": "Debugging",
+      "phase": 2,
+      "title": "Master Core Competencies in Debugging",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Debugging.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Debugging Official Technical Documentation",
+        "Interactive Debugging Guided Labs & Exercises"
+      ]
+    },
+    "Debugging with Oscilloscopes": {
+      "skill": "Debugging with Oscilloscopes",
+      "phase": 1,
+      "title": "Master Debugging with Oscilloscopes Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Debugging with Oscilloscopes.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Debugging with Oscilloscopes Official Technical Documentation",
+        "Interactive Debugging with Oscilloscopes Guided Labs & Exercises"
+      ]
+    },
+    "Deep Learning": {
+      "skill": "Deep Learning",
+      "phase": 2,
+      "title": "Neural Network Architectures & Optimization",
+      "description": "Master multi-layer perceptrons, CNNs, RNNs, backpropagation calculus, regularization (dropout/batchnorm), and Adam optimizers.",
+      "category": "Programming Languages",
+      "estimated_hours": 16.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Deep Learning Official Technical Documentation",
+        "Interactive Deep Learning Guided Labs & Exercises"
+      ]
+    },
+    "Descriptive Statistics": {
+      "skill": "Descriptive Statistics",
+      "phase": 1,
+      "title": "Master Descriptive Statistics Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Descriptive Statistics.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Descriptive Statistics Official Technical Documentation",
+        "Interactive Descriptive Statistics Guided Labs & Exercises"
+      ]
+    },
+    "Design Patterns": {
+      "skill": "Design Patterns",
+      "phase": 2,
+      "title": "Master Design Patterns Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Design Patterns.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Design Patterns Official Technical Documentation",
+        "Interactive Design Patterns Guided Labs & Exercises"
+      ]
+    },
+    "Design Systems": {
+      "skill": "Design Systems",
+      "phase": 2,
+      "title": "Modern UI Implementation & Design with Design Systems",
+      "description": "Build responsive, accessible, and high-performance user interfaces and components using Design Systems.",
+      "category": "Frontend & UI Design",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Design Systems Official Technical Documentation",
+        "Interactive Design Systems Guided Labs & Exercises"
+      ]
+    },
+    "Design Thinking": {
+      "skill": "Design Thinking",
+      "phase": 2,
+      "title": "Master Core Competencies in Design Thinking",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Design Thinking.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Design Thinking Official Technical Documentation",
+        "Interactive Design Thinking Guided Labs & Exercises"
+      ]
+    },
+    "Diagramming (Mermaid/PlantUML)": {
+      "skill": "Diagramming (Mermaid/PlantUML)",
+      "phase": 2,
+      "title": "Master Diagramming (Mermaid/PlantUML) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Diagramming (Mermaid/PlantUML).",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Diagramming (Mermaid/PlantUML) Official Technical Documentation",
+        "Interactive Diagramming (Mermaid/PlantUML) Guided Labs & Exercises"
+      ]
+    },
+    "Django": {
+      "skill": "Django",
+      "phase": 1,
+      "title": "Master Django Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Django.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Django Official Technical Documentation",
+        "Interactive Django Guided Labs & Exercises"
+      ]
+    },
+    "Docker": {
+      "skill": "Docker",
+      "phase": 1,
+      "title": "Containerization & Multi-Container Docker Compose",
+      "description": "Write multi-stage Dockerfiles, manage lightweight images, configure container networking, and mount persistent volumes.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Docker Official Technical Documentation",
+        "Interactive Docker Guided Labs & Exercises"
+      ]
+    },
+    "ETL Pipelines": {
+      "skill": "ETL Pipelines",
+      "phase": 2,
+      "title": "Master Core Competencies in ETL Pipelines",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in ETL Pipelines.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "ETL Pipelines Official Technical Documentation",
+        "Interactive ETL Pipelines Guided Labs & Exercises"
+      ]
+    },
+    "Embedded C": {
+      "skill": "Embedded C",
+      "phase": 1,
+      "title": "Master Embedded C Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Embedded C.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Embedded C Official Technical Documentation",
+        "Interactive Embedded C Guided Labs & Exercises"
+      ]
+    },
+    "Embedded Systems": {
+      "skill": "Embedded Systems",
+      "phase": 2,
+      "title": "Embedded Hardware & Systems Engineering with Embedded Systems",
+      "description": "Interface hardware sensors, write firmware logic, and implement real-time control algorithms with Embedded Systems.",
+      "category": "Robotics & Hardware",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Embedded Systems Official Technical Documentation",
+        "Interactive Embedded Systems Guided Labs & Exercises"
+      ]
+    },
+    "Ethereum": {
+      "skill": "Ethereum",
+      "phase": 2,
+      "title": "Master Ethereum Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Ethereum.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Ethereum Official Technical Documentation",
+        "Interactive Ethereum Guided Labs & Exercises"
+      ]
+    },
+    "Ethical Hacking": {
+      "skill": "Ethical Hacking",
+      "phase": 1,
+      "title": "Master Ethical Hacking Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Ethical Hacking.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Ethical Hacking Official Technical Documentation",
+        "Interactive Ethical Hacking Guided Labs & Exercises"
+      ]
+    },
+    "Excel & Spreadsheets": {
+      "skill": "Excel & Spreadsheets",
+      "phase": 1,
+      "title": "Master Excel & Spreadsheets Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Excel & Spreadsheets.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Excel & Spreadsheets Official Technical Documentation",
+        "Interactive Excel & Spreadsheets Guided Labs & Exercises"
+      ]
+    },
+    "FPGA": {
+      "skill": "FPGA",
+      "phase": 2,
+      "title": "Master Core Competencies in FPGA",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in FPGA.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "FPGA Official Technical Documentation",
+        "Interactive FPGA Guided Labs & Exercises"
+      ]
+    },
+    "FastAPI": {
+      "skill": "FastAPI",
+      "phase": 2,
+      "title": "High-Performance Asynchronous Python APIs with FastAPI",
+      "description": "Build type-safe REST APIs using Pydantic data schemas, dependency injection, async/await routes, and OpenAPI auto-docs.",
+      "category": "Backend & APIs",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "FastAPI Official Technical Documentation",
+        "Interactive FastAPI Guided Labs & Exercises"
+      ]
+    },
+    "Feature Engineering": {
+      "skill": "Feature Engineering",
+      "phase": 2,
+      "title": "Master Feature Engineering Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Feature Engineering.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Feature Engineering Official Technical Documentation",
+        "Interactive Feature Engineering Guided Labs & Exercises"
+      ]
+    },
+    "Figma": {
+      "skill": "Figma",
+      "phase": 2,
+      "title": "UI/UX Design Systems & High-Fidelity Prototyping in Figma",
+      "description": "Create responsive auto-layout components, variant states, design token variables, wireframes, and interactive clickable prototypes.",
+      "category": "Frontend & UI Design",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Figma Official Technical Documentation",
+        "Interactive Figma Guided Labs & Exercises"
+      ]
+    },
+    "Financial Modeling": {
+      "skill": "Financial Modeling",
+      "phase": 1,
+      "title": "Master Financial Modeling Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Financial Modeling.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Financial Modeling Official Technical Documentation",
+        "Interactive Financial Modeling Guided Labs & Exercises"
+      ]
+    },
+    "Firebase": {
+      "skill": "Firebase",
+      "phase": 2,
+      "title": "Master Firebase Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Firebase.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Firebase Official Technical Documentation",
+        "Interactive Firebase Guided Labs & Exercises"
+      ]
+    },
+    "Firewall Configuration": {
+      "skill": "Firewall Configuration",
+      "phase": 1,
+      "title": "Master Firewall Configuration Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Firewall Configuration.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Firewall Configuration Official Technical Documentation",
+        "Interactive Firewall Configuration Guided Labs & Exercises"
+      ]
+    },
+    "Flutter": {
+      "skill": "Flutter",
+      "phase": 2,
+      "title": "Master Flutter Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Flutter.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Flutter Official Technical Documentation",
+        "Interactive Flutter Guided Labs & Exercises"
+      ]
+    },
+    "GCP": {
+      "skill": "GCP",
+      "phase": 1,
+      "title": "Master GCP Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for GCP.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "GCP Official Technical Documentation",
+        "Interactive GCP Guided Labs & Exercises"
+      ]
+    },
+    "Game Audio": {
+      "skill": "Game Audio",
+      "phase": 2,
+      "title": "Interactive Mechanics & Simulation with Game Audio",
+      "description": "Implement gameplay logic, real-time physics, graphics rendering, and interactive systems using Game Audio.",
+      "category": "Game Development",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Game Audio Official Technical Documentation",
+        "Interactive Game Audio Guided Labs & Exercises"
+      ]
+    },
+    "Game Physics": {
+      "skill": "Game Physics",
+      "phase": 1,
+      "title": "Master Game Physics Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Game Physics.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Game Physics Official Technical Documentation",
+        "Interactive Game Physics Guided Labs & Exercises"
+      ]
+    },
+    "Gazebo Simulation": {
+      "skill": "Gazebo Simulation",
+      "phase": 2,
+      "title": "Embedded Hardware & Systems Engineering with Gazebo Simulation",
+      "description": "Interface hardware sensors, write firmware logic, and implement real-time control algorithms with Gazebo Simulation.",
+      "category": "Robotics & Hardware",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Gazebo Simulation Official Technical Documentation",
+        "Interactive Gazebo Simulation Guided Labs & Exercises"
+      ]
+    },
+    "Git": {
+      "skill": "Git",
+      "phase": 1,
+      "title": "Collaborative Version Control & Branching Workflows",
+      "description": "Master commit history, feature branching, interactive rebasing, merge conflict resolution, and pull request reviews on GitHub.",
+      "category": "Core Engineering",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Git Official Technical Documentation",
+        "Interactive Git Guided Labs & Exercises"
+      ]
+    },
+    "GitHub Actions": {
+      "skill": "GitHub Actions",
+      "phase": 1,
+      "title": "Master GitHub Actions Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for GitHub Actions.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "GitHub Actions Official Technical Documentation",
+        "Interactive GitHub Actions Guided Labs & Exercises"
+      ]
+    },
+    "Go": {
+      "skill": "Go",
+      "phase": 1,
+      "title": "Master Go Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Go.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Go Official Technical Documentation",
+        "Interactive Go Guided Labs & Exercises"
+      ]
+    },
+    "Grammar & Editing": {
+      "skill": "Grammar & Editing",
+      "phase": 2,
+      "title": "Master Grammar & Editing Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Grammar & Editing.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Grammar & Editing Official Technical Documentation",
+        "Interactive Grammar & Editing Guided Labs & Exercises"
+      ]
+    },
+    "GraphQL": {
+      "skill": "GraphQL",
+      "phase": 2,
+      "title": "Master GraphQL Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for GraphQL.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "GraphQL Official Technical Documentation",
+        "Interactive GraphQL Guided Labs & Exercises"
+      ]
+    },
+    "HTML5": {
+      "skill": "HTML5",
+      "phase": 1,
+      "title": "Modern UI Implementation & Design with HTML5",
+      "description": "Build responsive, accessible, and high-performance user interfaces and components using HTML5.",
+      "category": "Frontend & UI Design",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "HTML5 Official Technical Documentation",
+        "Interactive HTML5 Guided Labs & Exercises"
+      ]
+    },
+    "HTML5 & CSS3": {
+      "skill": "HTML5 & CSS3",
+      "phase": 1,
+      "title": "Master HTML5 & CSS3 Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for HTML5 & CSS3.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "HTML5 & CSS3 Official Technical Documentation",
+        "Interactive HTML5 & CSS3 Guided Labs & Exercises"
+      ]
+    },
+    "Hardware & OS": {
+      "skill": "Hardware & OS",
+      "phase": 1,
+      "title": "Master Hardware & OS Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Hardware & OS.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Hardware & OS Official Technical Documentation",
+        "Interactive Hardware & OS Guided Labs & Exercises"
+      ]
+    },
+    "Helm": {
+      "skill": "Helm",
+      "phase": 2,
+      "title": "Infrastructure Automation & Operations with Helm",
+      "description": "Configure cloud deployments, monitoring, automation workflows, and resilient architecture using Helm.",
+      "category": "Cloud & DevOps",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Helm Official Technical Documentation",
+        "Interactive Helm Guided Labs & Exercises"
+      ]
+    },
+    "Hyperparameter Tuning": {
+      "skill": "Hyperparameter Tuning",
+      "phase": 2,
+      "title": "Master Hyperparameter Tuning Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Hyperparameter Tuning.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Hyperparameter Tuning Official Technical Documentation",
+        "Interactive Hyperparameter Tuning Guided Labs & Exercises"
+      ]
+    },
+    "IAM Security": {
+      "skill": "IAM Security",
+      "phase": 1,
+      "title": "Master IAM Security Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for IAM Security.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "IAM Security Official Technical Documentation",
+        "Interactive IAM Security Guided Labs & Exercises"
+      ]
+    },
+    "IPFS": {
+      "skill": "IPFS",
+      "phase": 2,
+      "title": "Master Core Competencies in IPFS",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in IPFS.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "IPFS Official Technical Documentation",
+        "Interactive IPFS Guided Labs & Exercises"
+      ]
+    },
+    "Incident Management": {
+      "skill": "Incident Management",
+      "phase": 1,
+      "title": "Master Incident Management Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Incident Management.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Incident Management Official Technical Documentation",
+        "Interactive Incident Management Guided Labs & Exercises"
+      ]
+    },
+    "Incident Response": {
+      "skill": "Incident Response",
+      "phase": 1,
+      "title": "Master Incident Response Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Incident Response.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Incident Response Official Technical Documentation",
+        "Interactive Incident Response Guided Labs & Exercises"
+      ]
+    },
+    "Information Architecture": {
+      "skill": "Information Architecture",
+      "phase": 1,
+      "title": "Master Information Architecture Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Information Architecture.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Information Architecture Official Technical Documentation",
+        "Interactive Information Architecture Guided Labs & Exercises"
+      ]
+    },
+    "Interaction Design": {
+      "skill": "Interaction Design",
+      "phase": 1,
+      "title": "Master Interaction Design Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Interaction Design.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Interaction Design Official Technical Documentation",
+        "Interactive Interaction Design Guided Labs & Exercises"
+      ]
+    },
+    "IoT Protocols (MQTT)": {
+      "skill": "IoT Protocols (MQTT)",
+      "phase": 1,
+      "title": "Master IoT Protocols (MQTT) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for IoT Protocols (MQTT).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "IoT Protocols (MQTT) Official Technical Documentation",
+        "Interactive IoT Protocols (MQTT) Guided Labs & Exercises"
+      ]
+    },
+    "JIRA": {
+      "skill": "JIRA",
+      "phase": 2,
+      "title": "Master JIRA Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for JIRA.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "JIRA Official Technical Documentation",
+        "Interactive JIRA Guided Labs & Exercises"
+      ]
+    },
+    "Java": {
+      "skill": "Java",
+      "phase": 1,
+      "title": "Master Java Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Java.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Java Official Technical Documentation",
+        "Interactive Java Guided Labs & Exercises"
+      ]
+    },
+    "JavaScript": {
+      "skill": "JavaScript",
+      "phase": 1,
+      "title": "Master JavaScript Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for JavaScript.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "JavaScript Official Technical Documentation",
+        "Interactive JavaScript Guided Labs & Exercises"
+      ]
+    },
+    "Jenkins": {
+      "skill": "Jenkins",
+      "phase": 2,
+      "title": "Master Core Competencies in Jenkins",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Jenkins.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Jenkins Official Technical Documentation",
+        "Interactive Jenkins Guided Labs & Exercises"
+      ]
+    },
+    "Kafka": {
+      "skill": "Kafka",
+      "phase": 2,
+      "title": "Master Core Competencies in Kafka",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Kafka.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Kafka Official Technical Documentation",
+        "Interactive Kafka Guided Labs & Exercises"
+      ]
+    },
+    "Kinematics & Dynamics": {
+      "skill": "Kinematics & Dynamics",
+      "phase": 1,
+      "title": "Master Kinematics & Dynamics Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Kinematics & Dynamics.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Kinematics & Dynamics Official Technical Documentation",
+        "Interactive Kinematics & Dynamics Guided Labs & Exercises"
+      ]
+    },
+    "Kotlin": {
+      "skill": "Kotlin",
+      "phase": 2,
+      "title": "Master Kotlin Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Kotlin.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Kotlin Official Technical Documentation",
+        "Interactive Kotlin Guided Labs & Exercises"
+      ]
+    },
+    "Kubernetes": {
+      "skill": "Kubernetes",
+      "phase": 2,
+      "title": "Container Orchestration & Cluster Management",
+      "description": "Deploy Pods, Deployments, Services, ConfigMaps, Ingress controllers, and auto-scaling ReplicaSets in Kubernetes.",
+      "category": "Programming Languages",
+      "estimated_hours": 16.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Kubernetes Official Technical Documentation",
+        "Interactive Kubernetes Guided Labs & Exercises"
+      ]
+    },
+    "LangChain": {
+      "skill": "LangChain",
+      "phase": 1,
+      "title": "Master LangChain Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for LangChain.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "LangChain Official Technical Documentation",
+        "Interactive LangChain Guided Labs & Exercises"
+      ]
+    },
+    "Linear Algebra": {
+      "skill": "Linear Algebra",
+      "phase": 1,
+      "title": "Master Linear Algebra Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Linear Algebra.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Linear Algebra Official Technical Documentation",
+        "Interactive Linear Algebra Guided Labs & Exercises"
+      ]
+    },
+    "Linux": {
+      "skill": "Linux",
+      "phase": 1,
+      "title": "Linux Shell Navigation, Permissions & System Administration",
+      "description": "Master Bash command line utilities, file permissions (chmod/chown), process management (systemd), SSH keys, and cron jobs.",
+      "category": "Core Engineering",
+      "estimated_hours": 16.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Linux Official Technical Documentation",
+        "Interactive Linux Guided Labs & Exercises"
+      ]
+    },
+    "Linux Kernel & Drivers": {
+      "skill": "Linux Kernel & Drivers",
+      "phase": 1,
+      "title": "Master Linux Kernel & Drivers Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Linux Kernel & Drivers.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Linux Kernel & Drivers Official Technical Documentation",
+        "Interactive Linux Kernel & Drivers Guided Labs & Exercises"
+      ]
+    },
+    "Local Storage": {
+      "skill": "Local Storage",
+      "phase": 1,
+      "title": "Master Local Storage Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Local Storage.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Local Storage Official Technical Documentation",
+        "Interactive Local Storage Guided Labs & Exercises"
+      ]
+    },
+    "MLOps": {
+      "skill": "MLOps",
+      "phase": 2,
+      "title": "Applied AI & Analytical Modeling with MLOps",
+      "description": "Develop statistical models, data transformation pipelines, and algorithmic solutions with MLOps.",
+      "category": "AI & Data Science",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "MLOps Official Technical Documentation",
+        "Interactive MLOps Guided Labs & Exercises"
+      ]
+    },
+    "MLflow": {
+      "skill": "MLflow",
+      "phase": 2,
+      "title": "Master Core Competencies in MLflow",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in MLflow.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "MLflow Official Technical Documentation",
+        "Interactive MLflow Guided Labs & Exercises"
+      ]
+    },
+    "Machine Learning": {
+      "skill": "Machine Learning",
+      "phase": 1,
+      "title": "Statistical Machine Learning & Algorithmic Modeling",
+      "description": "Master supervised and unsupervised learning algorithms: linear regression, decision trees, random forests, SVMs, and clustering.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Machine Learning Official Technical Documentation",
+        "Interactive Machine Learning Guided Labs & Exercises"
+      ]
+    },
+    "Markdown & Docs-as-Code": {
+      "skill": "Markdown & Docs-as-Code",
+      "phase": 1,
+      "title": "Master Markdown & Docs-as-Code Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Markdown & Docs-as-Code.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Markdown & Docs-as-Code Official Technical Documentation",
+        "Interactive Markdown & Docs-as-Code Guided Labs & Exercises"
+      ]
+    },
+    "Mathematics & Linear Algebra": {
+      "skill": "Mathematics & Linear Algebra",
+      "phase": 1,
+      "title": "Linear Algebra & Multivariate Calculus for Engineering",
+      "description": "Study vector spaces, dot/cross products, matrix factorization, coordinate frames, and differential equations.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Mathematics & Linear Algebra Official Technical Documentation",
+        "Interactive Mathematics & Linear Algebra Guided Labs & Exercises"
+      ]
+    },
+    "Mathematics & Statistics": {
+      "skill": "Mathematics & Statistics",
+      "phase": 1,
+      "title": "Applied Linear Algebra, Calculus & Probability",
+      "description": "Master matrix transformations, eigenvalues, partial derivatives, gradient descent, hypothesis testing, and distributions.",
+      "category": "Programming Languages",
+      "estimated_hours": 16.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Mathematics & Statistics Official Technical Documentation",
+        "Interactive Mathematics & Statistics Guided Labs & Exercises"
+      ]
+    },
+    "Matplotlib": {
+      "skill": "Matplotlib",
+      "phase": 2,
+      "title": "Master Core Competencies in Matplotlib",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Matplotlib.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Matplotlib Official Technical Documentation",
+        "Interactive Matplotlib Guided Labs & Exercises"
+      ]
+    },
+    "Metasploit": {
+      "skill": "Metasploit",
+      "phase": 2,
+      "title": "Master Core Competencies in Metasploit",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Metasploit.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Metasploit Official Technical Documentation",
+        "Interactive Metasploit Guided Labs & Exercises"
+      ]
+    },
+    "Microcontrollers": {
+      "skill": "Microcontrollers",
+      "phase": 1,
+      "title": "Master Microcontrollers Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Microcontrollers.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Microcontrollers Official Technical Documentation",
+        "Interactive Microcontrollers Guided Labs & Exercises"
+      ]
+    },
+    "Microservices": {
+      "skill": "Microservices",
+      "phase": 1,
+      "title": "Master Microservices Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Microservices.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Microservices Official Technical Documentation",
+        "Interactive Microservices Guided Labs & Exercises"
+      ]
+    },
+    "Mobile UI Design": {
+      "skill": "Mobile UI Design",
+      "phase": 2,
+      "title": "Modern UI Implementation & Design with Mobile UI Design",
+      "description": "Build responsive, accessible, and high-performance user interfaces and components using Mobile UI Design.",
+      "category": "Frontend & UI Design",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Mobile UI Design Official Technical Documentation",
+        "Interactive Mobile UI Design Guided Labs & Exercises"
+      ]
+    },
+    "Model Evaluation": {
+      "skill": "Model Evaluation",
+      "phase": 2,
+      "title": "Master Core Competencies in Model Evaluation",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Model Evaluation.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Model Evaluation Official Technical Documentation",
+        "Interactive Model Evaluation Guided Labs & Exercises"
+      ]
+    },
+    "MongoDB": {
+      "skill": "MongoDB",
+      "phase": 1,
+      "title": "Master MongoDB Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for MongoDB.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "MongoDB Official Technical Documentation",
+        "Interactive MongoDB Guided Labs & Exercises"
+      ]
+    },
+    "Monitoring & Logging": {
+      "skill": "Monitoring & Logging",
+      "phase": 2,
+      "title": "Master Monitoring & Logging Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Monitoring & Logging.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Monitoring & Logging Official Technical Documentation",
+        "Interactive Monitoring & Logging Guided Labs & Exercises"
+      ]
+    },
+    "MySQL": {
+      "skill": "MySQL",
+      "phase": 1,
+      "title": "Data Modeling & Query Optimization with MySQL",
+      "description": "Design schemas, write efficient queries, handle transactions, and optimize indexes with MySQL.",
+      "category": "Databases & Storage",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "MySQL Official Technical Documentation",
+        "Interactive MySQL Guided Labs & Exercises"
+      ]
+    },
+    "NLP": {
+      "skill": "NLP",
+      "phase": 2,
+      "title": "Natural Language Processing & Transformer Modeling",
+      "description": "Implement tokenization, word embeddings (Word2Vec), sequence tagging, attention mechanisms, and fine-tune HuggingFace models.",
+      "category": "AI & Data Science",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "NLP Official Technical Documentation",
+        "Interactive NLP Guided Labs & Exercises"
+      ]
+    },
+    "Network Protocols (TCP/IP/DNS/DHCP)": {
+      "skill": "Network Protocols (TCP/IP/DNS/DHCP)",
+      "phase": 1,
+      "title": "Master Network Protocols (TCP/IP/DNS/DHCP) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Network Protocols (TCP/IP/DNS/DHCP).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Network Protocols (TCP/IP/DNS/DHCP) Official Technical Documentation",
+        "Interactive Network Protocols (TCP/IP/DNS/DHCP) Guided Labs & Exercises"
+      ]
+    },
+    "Network Security": {
+      "skill": "Network Security",
+      "phase": 1,
+      "title": "Master Network Security Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Network Security.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Network Security Official Technical Documentation",
+        "Interactive Network Security Guided Labs & Exercises"
+      ]
+    },
+    "Networking Fundamentals": {
+      "skill": "Networking Fundamentals",
+      "phase": 2,
+      "title": "Master Networking Fundamentals Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Networking Fundamentals.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Networking Fundamentals Official Technical Documentation",
+        "Interactive Networking Fundamentals Guided Labs & Exercises"
+      ]
+    },
+    "Next.js": {
+      "skill": "Next.js",
+      "phase": 2,
+      "title": "Modern UI Implementation & Design with Next.js",
+      "description": "Build responsive, accessible, and high-performance user interfaces and components using Next.js.",
+      "category": "Frontend & UI Design",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Next.js Official Technical Documentation",
+        "Interactive Next.js Guided Labs & Exercises"
+      ]
+    },
+    "Node.js": {
+      "skill": "Node.js",
+      "phase": 2,
+      "title": "Asynchronous Server-Side Development with Node.js",
+      "description": "Master the Event Loop, asynchronous I/O, Streams, Buffers, modular architecture, and HTTP server creation.",
+      "category": "Backend & APIs",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Node.js Official Technical Documentation",
+        "Interactive Node.js Guided Labs & Exercises"
+      ]
+    },
+    "NumPy": {
+      "skill": "NumPy",
+      "phase": 2,
+      "title": "Applied AI & Analytical Modeling with NumPy",
+      "description": "Develop statistical models, data transformation pipelines, and algorithmic solutions with NumPy.",
+      "category": "AI & Data Science",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "NumPy Official Technical Documentation",
+        "Interactive NumPy Guided Labs & Exercises"
+      ]
+    },
+    "OWASP Top 10": {
+      "skill": "OWASP Top 10",
+      "phase": 2,
+      "title": "Security Hardening & Threat Analysis with OWASP Top 10",
+      "description": "Perform vulnerability assessments, protocol auditing, threat mitigation, and defensive controls using OWASP Top 10.",
+      "category": "Cybersecurity",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "OWASP Top 10 Official Technical Documentation",
+        "Interactive OWASP Top 10 Guided Labs & Exercises"
+      ]
+    },
+    "Object-Oriented Programming": {
+      "skill": "Object-Oriented Programming",
+      "phase": 1,
+      "title": "Master Object-Oriented Programming Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Object-Oriented Programming.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Object-Oriented Programming Official Technical Documentation",
+        "Interactive Object-Oriented Programming Guided Labs & Exercises"
+      ]
+    },
+    "Observability & Monitoring": {
+      "skill": "Observability & Monitoring",
+      "phase": 2,
+      "title": "Master Observability & Monitoring Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Observability & Monitoring.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Observability & Monitoring Official Technical Documentation",
+        "Interactive Observability & Monitoring Guided Labs & Exercises"
+      ]
+    },
+    "Offline Sync": {
+      "skill": "Offline Sync",
+      "phase": 1,
+      "title": "Master Offline Sync Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Offline Sync.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Offline Sync Official Technical Documentation",
+        "Interactive Offline Sync Guided Labs & Exercises"
+      ]
+    },
+    "OpenCV": {
+      "skill": "OpenCV",
+      "phase": 1,
+      "title": "Master OpenCV Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for OpenCV.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "OpenCV Official Technical Documentation",
+        "Interactive OpenCV Guided Labs & Exercises"
+      ]
+    },
+    "OpenGL & DirectX": {
+      "skill": "OpenGL & DirectX",
+      "phase": 1,
+      "title": "Master OpenGL & DirectX Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for OpenGL & DirectX.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "OpenGL & DirectX Official Technical Documentation",
+        "Interactive OpenGL & DirectX Guided Labs & Exercises"
+      ]
+    },
+    "Oracle DB": {
+      "skill": "Oracle DB",
+      "phase": 1,
+      "title": "Master Oracle DB Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Oracle DB.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Oracle DB Official Technical Documentation",
+        "Interactive Oracle DB Guided Labs & Exercises"
+      ]
+    },
+    "PCB Design Basics": {
+      "skill": "PCB Design Basics",
+      "phase": 1,
+      "title": "Master PCB Design Basics Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for PCB Design Basics.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "PCB Design Basics Official Technical Documentation",
+        "Interactive PCB Design Basics Guided Labs & Exercises"
+      ]
+    },
+    "Pandas": {
+      "skill": "Pandas",
+      "phase": 2,
+      "title": "Applied AI & Analytical Modeling with Pandas",
+      "description": "Develop statistical models, data transformation pipelines, and algorithmic solutions with Pandas.",
+      "category": "AI & Data Science",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Pandas Official Technical Documentation",
+        "Interactive Pandas Guided Labs & Exercises"
+      ]
+    },
+    "Path Planning (A*/RRT)": {
+      "skill": "Path Planning (A*/RRT)",
+      "phase": 2,
+      "title": "Master Path Planning (A*/RRT) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Path Planning (A*/RRT).",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Path Planning (A*/RRT) Official Technical Documentation",
+        "Interactive Path Planning (A*/RRT) Guided Labs & Exercises"
+      ]
+    },
+    "Performance Testing": {
+      "skill": "Performance Testing",
+      "phase": 1,
+      "title": "Master Performance Testing Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Performance Testing.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Performance Testing Official Technical Documentation",
+        "Interactive Performance Testing Guided Labs & Exercises"
+      ]
+    },
+    "Performance Tuning": {
+      "skill": "Performance Tuning",
+      "phase": 1,
+      "title": "Master Performance Tuning Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Performance Tuning.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Performance Tuning Official Technical Documentation",
+        "Interactive Performance Tuning Guided Labs & Exercises"
+      ]
+    },
+    "Playwright": {
+      "skill": "Playwright",
+      "phase": 2,
+      "title": "Master Playwright Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Playwright.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Playwright Official Technical Documentation",
+        "Interactive Playwright Guided Labs & Exercises"
+      ]
+    },
+    "PostgreSQL": {
+      "skill": "PostgreSQL",
+      "phase": 1,
+      "title": "PostgreSQL Schema Design, Indexing & Optimization",
+      "description": "Design normalized relational schemas, configure foreign keys, EXPLAIN ANALYZE query plans, B-Tree/GIN indexing, and stored procedures.",
+      "category": "Programming Languages",
+      "estimated_hours": 16.0,
+      "priority": "High",
+      "suggested_resources": [
+        "PostgreSQL Official Technical Documentation",
+        "Interactive PostgreSQL Guided Labs & Exercises"
+      ]
+    },
+    "Postman": {
+      "skill": "Postman",
+      "phase": 2,
+      "title": "Master Core Competencies in Postman",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in Postman.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Postman Official Technical Documentation",
+        "Interactive Postman Guided Labs & Exercises"
+      ]
+    },
+    "Power BI": {
+      "skill": "Power BI",
+      "phase": 2,
+      "title": "Interactive Business Intelligence Dashboards with Power BI",
+      "description": "Ingest diverse data sources, establish star schemas, author DAX calculations, and build interactive executive visual dashboards.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Power BI Official Technical Documentation",
+        "Interactive Power BI Guided Labs & Exercises"
+      ]
+    },
+    "Problem Solving": {
+      "skill": "Problem Solving",
+      "phase": 2,
+      "title": "Master Problem Solving Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Problem Solving.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Problem Solving Official Technical Documentation",
+        "Interactive Problem Solving Guided Labs & Exercises"
+      ]
+    },
+    "Product Analytics (Mixpanel/Amplitude)": {
+      "skill": "Product Analytics (Mixpanel/Amplitude)",
+      "phase": 1,
+      "title": "Master Product Analytics (Mixpanel/Amplitude) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Product Analytics (Mixpanel/Amplitude).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Product Analytics (Mixpanel/Amplitude) Official Technical Documentation",
+        "Interactive Product Analytics (Mixpanel/Amplitude) Guided Labs & Exercises"
+      ]
+    },
+    "Product Strategy": {
+      "skill": "Product Strategy",
+      "phase": 1,
+      "title": "Master Product Strategy Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Product Strategy.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Product Strategy Official Technical Documentation",
+        "Interactive Product Strategy Guided Labs & Exercises"
+      ]
+    },
+    "Prometheus & Grafana": {
+      "skill": "Prometheus & Grafana",
+      "phase": 2,
+      "title": "Master Prometheus & Grafana Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Prometheus & Grafana.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Prometheus & Grafana Official Technical Documentation",
+        "Interactive Prometheus & Grafana Guided Labs & Exercises"
+      ]
+    },
+    "Prototyping": {
+      "skill": "Prototyping",
+      "phase": 2,
+      "title": "Master Prototyping Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Prototyping.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Prototyping Official Technical Documentation",
+        "Interactive Prototyping Guided Labs & Exercises"
+      ]
+    },
+    "Push Notifications": {
+      "skill": "Push Notifications",
+      "phase": 1,
+      "title": "Master Push Notifications Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Push Notifications.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Push Notifications Official Technical Documentation",
+        "Interactive Push Notifications Guided Labs & Exercises"
+      ]
+    },
+    "PyTest": {
+      "skill": "PyTest",
+      "phase": 2,
+      "title": "Python Unit & Integration Test Automation with PyTest",
+      "description": "Write parameterized tests, design modular fixtures, assert exceptions, calculate coverage with pytest-cov, and run CI test suites.",
+      "category": "Quality Assurance & Testing",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "PyTest Official Technical Documentation",
+        "Interactive PyTest Guided Labs & Exercises"
+      ]
+    },
+    "PyTorch": {
+      "skill": "PyTorch",
+      "phase": 1,
+      "title": "Deep Learning Modeling & Tensor Operations with PyTorch",
+      "description": "Implement custom neural network layers, autograd backpropagation, loss functions, and GPU tensor pipelines with PyTorch.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "PyTorch Official Technical Documentation",
+        "Interactive PyTorch Guided Labs & Exercises"
+      ]
+    },
+    "Python": {
+      "skill": "Python",
+      "phase": 1,
+      "title": "Master Python Core Syntax, Idioms & Standard Library",
+      "description": "Study language fundamentals, data structures, generators, comprehensions, decorators, and OOP paradigms in Python 3.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Python Official Technical Documentation",
+        "Interactive Python Guided Labs & Exercises"
+      ]
+    },
+    "Python Basics": {
+      "skill": "Python Basics",
+      "phase": 1,
+      "title": "Master Python Basics Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Python Basics.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Python Basics Official Technical Documentation",
+        "Interactive Python Basics Guided Labs & Exercises"
+      ]
+    },
+    "R": {
+      "skill": "R",
+      "phase": 2,
+      "title": "Master R Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for R.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "R Official Technical Documentation",
+        "Interactive R Guided Labs & Exercises"
+      ]
+    },
+    "REST APIs": {
+      "skill": "REST APIs",
+      "phase": 2,
+      "title": "Master REST APIs Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for REST APIs.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "REST APIs Official Technical Documentation",
+        "Interactive REST APIs Guided Labs & Exercises"
+      ]
+    },
+    "ROS (Robot Operating System)": {
+      "skill": "ROS (Robot Operating System)",
+      "phase": 2,
+      "title": "Robotic Node Architecture & Messaging in ROS",
+      "description": "Develop ROS2 nodes, configure publisher/subscriber topics, service clients, actions, launch files, and URDF robot models.",
+      "category": "Programming Languages",
+      "estimated_hours": 16.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "ROS (Robot Operating System) Official Technical Documentation",
+        "Interactive ROS (Robot Operating System) Guided Labs & Exercises"
+      ]
+    },
+    "RTOS": {
+      "skill": "RTOS",
+      "phase": 2,
+      "title": "Master RTOS Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for RTOS.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "RTOS Official Technical Documentation",
+        "Interactive RTOS Guided Labs & Exercises"
+      ]
+    },
+    "React": {
+      "skill": "React",
+      "phase": 1,
+      "title": "Component-Driven UI Development with Modern React",
+      "description": "Build responsive SPAs using functional components, hooks (useState, useEffect, useMemo, useCallback), context, and router.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "React Official Technical Documentation",
+        "Interactive React Guided Labs & Exercises"
+      ]
+    },
+    "React Native": {
+      "skill": "React Native",
+      "phase": 1,
+      "title": "Master React Native Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for React Native.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "React Native Official Technical Documentation",
+        "Interactive React Native Guided Labs & Exercises"
+      ]
+    },
+    "Redis": {
+      "skill": "Redis",
+      "phase": 2,
+      "title": "In-Memory Caching & Distributed Data Structures",
+      "description": "Implement cache-aside patterns, key expiration TTLs, pub/sub messaging channels, and atomic rate limiters with Redis.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Redis Official Technical Documentation",
+        "Interactive Redis Guided Labs & Exercises"
+      ]
+    },
+    "Replication & Sharding": {
+      "skill": "Replication & Sharding",
+      "phase": 1,
+      "title": "Master Replication & Sharding Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Replication & Sharding.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Replication & Sharding Official Technical Documentation",
+        "Interactive Replication & Sharding Guided Labs & Exercises"
+      ]
+    },
+    "Reporting": {
+      "skill": "Reporting",
+      "phase": 2,
+      "title": "Master Reporting Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Reporting.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Reporting Official Technical Documentation",
+        "Interactive Reporting Guided Labs & Exercises"
+      ]
+    },
+    "Responsive Design": {
+      "skill": "Responsive Design",
+      "phase": 2,
+      "title": "Master Responsive Design Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Responsive Design.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Responsive Design Official Technical Documentation",
+        "Interactive Responsive Design Guided Labs & Exercises"
+      ]
+    },
+    "Roadmap Planning": {
+      "skill": "Roadmap Planning",
+      "phase": 2,
+      "title": "Master Roadmap Planning Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Roadmap Planning.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Roadmap Planning Official Technical Documentation",
+        "Interactive Roadmap Planning Guided Labs & Exercises"
+      ]
+    },
+    "Rust": {
+      "skill": "Rust",
+      "phase": 1,
+      "title": "Master Rust Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Rust.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Rust Official Technical Documentation",
+        "Interactive Rust Guided Labs & Exercises"
+      ]
+    },
+    "SIEM Tools": {
+      "skill": "SIEM Tools",
+      "phase": 2,
+      "title": "Security Hardening & Threat Analysis with SIEM Tools",
+      "description": "Perform vulnerability assessments, protocol auditing, threat mitigation, and defensive controls using SIEM Tools.",
+      "category": "Cybersecurity",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "SIEM Tools Official Technical Documentation",
+        "Interactive SIEM Tools Guided Labs & Exercises"
+      ]
+    },
+    "SLAM": {
+      "skill": "SLAM",
+      "phase": 2,
+      "title": "Master Core Competencies in SLAM",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in SLAM.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "SLAM Official Technical Documentation",
+        "Interactive SLAM Guided Labs & Exercises"
+      ]
+    },
+    "SLO & SLA Management": {
+      "skill": "SLO & SLA Management",
+      "phase": 2,
+      "title": "Master Core Competencies in SLO & SLA Management",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in SLO & SLA Management.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "SLO & SLA Management Official Technical Documentation",
+        "Interactive SLO & SLA Management Guided Labs & Exercises"
+      ]
+    },
+    "SQL": {
+      "skill": "SQL",
+      "phase": 1,
+      "title": "Relational Database Querying, Joins & Aggregations",
+      "description": "Write performant SELECT queries, multi-table JOINs, window functions, subqueries, index strategies, and transaction ACID semantics.",
+      "category": "Databases & Storage",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "SQL Official Technical Documentation",
+        "Interactive SQL Guided Labs & Exercises"
+      ]
+    },
+    "SQL Server": {
+      "skill": "SQL Server",
+      "phase": 1,
+      "title": "Master SQL Server Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for SQL Server.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "SQL Server Official Technical Documentation",
+        "Interactive SQL Server Guided Labs & Exercises"
+      ]
+    },
+    "Scikit-Learn": {
+      "skill": "Scikit-Learn",
+      "phase": 1,
+      "title": "Master Scikit-Learn Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Scikit-Learn.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Scikit-Learn Official Technical Documentation",
+        "Interactive Scikit-Learn Guided Labs & Exercises"
+      ]
+    },
+    "Seaborn": {
+      "skill": "Seaborn",
+      "phase": 2,
+      "title": "Master Seaborn Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Seaborn.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Seaborn Official Technical Documentation",
+        "Interactive Seaborn Guided Labs & Exercises"
+      ]
+    },
+    "Security Auditing": {
+      "skill": "Security Auditing",
+      "phase": 1,
+      "title": "Master Security Auditing Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Security Auditing.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Security Auditing Official Technical Documentation",
+        "Interactive Security Auditing Guided Labs & Exercises"
+      ]
+    },
+    "Security Best Practices": {
+      "skill": "Security Best Practices",
+      "phase": 1,
+      "title": "Master Security Best Practices Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Security Best Practices.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Security Best Practices Official Technical Documentation",
+        "Interactive Security Best Practices Guided Labs & Exercises"
+      ]
+    },
+    "Security Protocols": {
+      "skill": "Security Protocols",
+      "phase": 1,
+      "title": "Master Security Protocols Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Security Protocols.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Security Protocols Official Technical Documentation",
+        "Interactive Security Protocols Guided Labs & Exercises"
+      ]
+    },
+    "Selenium": {
+      "skill": "Selenium",
+      "phase": 2,
+      "title": "Automated Web Application Testing with Selenium",
+      "description": "Design Page Object Model (POM) test suites, configure explicit/implicit waits, simulate user interactions, and capture test artifacts.",
+      "category": "Quality Assurance & Testing",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Selenium Official Technical Documentation",
+        "Interactive Selenium Guided Labs & Exercises"
+      ]
+    },
+    "Sensor Fusion (Kalman Filters)": {
+      "skill": "Sensor Fusion (Kalman Filters)",
+      "phase": 2,
+      "title": "Master Sensor Fusion (Kalman Filters) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Sensor Fusion (Kalman Filters).",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Sensor Fusion (Kalman Filters) Official Technical Documentation",
+        "Interactive Sensor Fusion (Kalman Filters) Guided Labs & Exercises"
+      ]
+    },
+    "Serverless (AWS Lambda)": {
+      "skill": "Serverless (AWS Lambda)",
+      "phase": 2,
+      "title": "Master Serverless (AWS Lambda) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Serverless (AWS Lambda).",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Serverless (AWS Lambda) Official Technical Documentation",
+        "Interactive Serverless (AWS Lambda) Guided Labs & Exercises"
+      ]
+    },
+    "Shader Programming (GLSL/HLSL)": {
+      "skill": "Shader Programming (GLSL/HLSL)",
+      "phase": 2,
+      "title": "Master Shader Programming (GLSL/HLSL) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Shader Programming (GLSL/HLSL).",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Shader Programming (GLSL/HLSL) Official Technical Documentation",
+        "Interactive Shader Programming (GLSL/HLSL) Guided Labs & Exercises"
+      ]
+    },
+    "Smart Contracts": {
+      "skill": "Smart Contracts",
+      "phase": 1,
+      "title": "Master Smart Contracts Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Smart Contracts.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Smart Contracts Official Technical Documentation",
+        "Interactive Smart Contracts Guided Labs & Exercises"
+      ]
+    },
+    "Snowflake": {
+      "skill": "Snowflake",
+      "phase": 2,
+      "title": "Data Modeling & Query Optimization with Snowflake",
+      "description": "Design schemas, write efficient queries, handle transactions, and optimize indexes with Snowflake.",
+      "category": "Databases & Storage",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Snowflake Official Technical Documentation",
+        "Interactive Snowflake Guided Labs & Exercises"
+      ]
+    },
+    "Software Concepts": {
+      "skill": "Software Concepts",
+      "phase": 1,
+      "title": "Master Software Concepts Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Software Concepts.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Software Concepts Official Technical Documentation",
+        "Interactive Software Concepts Guided Labs & Exercises"
+      ]
+    },
+    "Software Testing": {
+      "skill": "Software Testing",
+      "phase": 2,
+      "title": "Master Software Testing Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Software Testing.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Software Testing Official Technical Documentation",
+        "Interactive Software Testing Guided Labs & Exercises"
+      ]
+    },
+    "Solidity": {
+      "skill": "Solidity",
+      "phase": 1,
+      "title": "Smart Contract Development & EVM Security in Solidity",
+      "description": "Write ERC-20 and ERC-721 contracts, manage gas optimization, enforce modifiers, and defend against reentrancy attacks.",
+      "category": "Programming Languages",
+      "estimated_hours": 16.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Solidity Official Technical Documentation",
+        "Interactive Solidity Guided Labs & Exercises"
+      ]
+    },
+    "State Management": {
+      "skill": "State Management",
+      "phase": 2,
+      "title": "Master Core Competencies in State Management",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in State Management.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "State Management Official Technical Documentation",
+        "Interactive State Management Guided Labs & Exercises"
+      ]
+    },
+    "Static Site Generators (Docusaurus/MkDocs)": {
+      "skill": "Static Site Generators (Docusaurus/MkDocs)",
+      "phase": 1,
+      "title": "Master Static Site Generators (Docusaurus/MkDocs) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Static Site Generators (Docusaurus/MkDocs).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Static Site Generators (Docusaurus/MkDocs) Official Technical Documentation",
+        "Interactive Static Site Generators (Docusaurus/MkDocs) Guided Labs & Exercises"
+      ]
+    },
+    "Statistics": {
+      "skill": "Statistics",
+      "phase": 1,
+      "title": "Master Statistics Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Statistics.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Statistics Official Technical Documentation",
+        "Interactive Statistics Guided Labs & Exercises"
+      ]
+    },
+    "Statistics & Probability": {
+      "skill": "Statistics & Probability",
+      "phase": 1,
+      "title": "Master Statistics & Probability Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Statistics & Probability.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Statistics & Probability Official Technical Documentation",
+        "Interactive Statistics & Probability Guided Labs & Exercises"
+      ]
+    },
+    "Storyboarding": {
+      "skill": "Storyboarding",
+      "phase": 2,
+      "title": "Master Storyboarding Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Storyboarding.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Storyboarding Official Technical Documentation",
+        "Interactive Storyboarding Guided Labs & Exercises"
+      ]
+    },
+    "Storytelling with Data": {
+      "skill": "Storytelling with Data",
+      "phase": 2,
+      "title": "Master Storytelling with Data Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Storytelling with Data.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Storytelling with Data Official Technical Documentation",
+        "Interactive Storytelling with Data Guided Labs & Exercises"
+      ]
+    },
+    "Swagger / OpenAPI": {
+      "skill": "Swagger / OpenAPI",
+      "phase": 2,
+      "title": "Master Swagger / OpenAPI Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Swagger / OpenAPI.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Swagger / OpenAPI Official Technical Documentation",
+        "Interactive Swagger / OpenAPI Guided Labs & Exercises"
+      ]
+    },
+    "Swift": {
+      "skill": "Swift",
+      "phase": 1,
+      "title": "Master Swift Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Swift.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Swift Official Technical Documentation",
+        "Interactive Swift Guided Labs & Exercises"
+      ]
+    },
+    "System Architecture Basics": {
+      "skill": "System Architecture Basics",
+      "phase": 1,
+      "title": "Master System Architecture Basics Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for System Architecture Basics.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "System Architecture Basics Official Technical Documentation",
+        "Interactive System Architecture Basics Guided Labs & Exercises"
+      ]
+    },
+    "Tableau": {
+      "skill": "Tableau",
+      "phase": 2,
+      "title": "Business Analytics & Strategic Reporting with Tableau",
+      "description": "Extract business intelligence, build KPI tracking dashboards, and analyze key metrics with Tableau.",
+      "category": "Business Intelligence & Analytics",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Tableau Official Technical Documentation",
+        "Interactive Tableau Guided Labs & Exercises"
+      ]
+    },
+    "Tailwind CSS": {
+      "skill": "Tailwind CSS",
+      "phase": 1,
+      "title": "Master Tailwind CSS Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Tailwind CSS.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Tailwind CSS Official Technical Documentation",
+        "Interactive Tailwind CSS Guided Labs & Exercises"
+      ]
+    },
+    "Technical Communication": {
+      "skill": "Technical Communication",
+      "phase": 1,
+      "title": "Master Technical Communication Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Technical Communication.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Technical Communication Official Technical Documentation",
+        "Interactive Technical Communication Guided Labs & Exercises"
+      ]
+    },
+    "Technical Writing": {
+      "skill": "Technical Writing",
+      "phase": 1,
+      "title": "Master Technical Writing Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Technical Writing.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Technical Writing Official Technical Documentation",
+        "Interactive Technical Writing Guided Labs & Exercises"
+      ]
+    },
+    "TensorFlow": {
+      "skill": "TensorFlow",
+      "phase": 2,
+      "title": "TensorFlow 2.x & Keras Neural Network Pipelines",
+      "description": "Build sequential and functional models, configure training callbacks, and export optimized models for production serving.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "TensorFlow Official Technical Documentation",
+        "Interactive TensorFlow Guided Labs & Exercises"
+      ]
+    },
+    "Terraform": {
+      "skill": "Terraform",
+      "phase": 2,
+      "title": "Master Terraform Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Terraform.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Terraform Official Technical Documentation",
+        "Interactive Terraform Guided Labs & Exercises"
+      ]
+    },
+    "Test Automation": {
+      "skill": "Test Automation",
+      "phase": 2,
+      "title": "Test Automation & Quality Validation with Test Automation",
+      "description": "Build automated test cases, validate system behavior, ensure regression stability, and track defects with Test Automation.",
+      "category": "Quality Assurance & Testing",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Test Automation Official Technical Documentation",
+        "Interactive Test Automation Guided Labs & Exercises"
+      ]
+    },
+    "Testing (Jest/Cypress)": {
+      "skill": "Testing (Jest/Cypress)",
+      "phase": 1,
+      "title": "Master Testing (Jest/Cypress) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Testing (Jest/Cypress).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Testing (Jest/Cypress) Official Technical Documentation",
+        "Interactive Testing (Jest/Cypress) Guided Labs & Exercises"
+      ]
+    },
+    "Ticketing Systems (ServiceNow/Jira)": {
+      "skill": "Ticketing Systems (ServiceNow/Jira)",
+      "phase": 1,
+      "title": "Master Ticketing Systems (ServiceNow/Jira) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Ticketing Systems (ServiceNow/Jira).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Ticketing Systems (ServiceNow/Jira) Official Technical Documentation",
+        "Interactive Ticketing Systems (ServiceNow/Jira) Guided Labs & Exercises"
+      ]
+    },
+    "Transformers": {
+      "skill": "Transformers",
+      "phase": 2,
+      "title": "Master Transformers Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Transformers.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Transformers Official Technical Documentation",
+        "Interactive Transformers Guided Labs & Exercises"
+      ]
+    },
+    "Troubleshooting & Diagnostics": {
+      "skill": "Troubleshooting & Diagnostics",
+      "phase": 1,
+      "title": "Master Troubleshooting & Diagnostics Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Troubleshooting & Diagnostics.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Troubleshooting & Diagnostics Official Technical Documentation",
+        "Interactive Troubleshooting & Diagnostics Guided Labs & Exercises"
+      ]
+    },
+    "Truffle & Hardhat": {
+      "skill": "Truffle & Hardhat",
+      "phase": 2,
+      "title": "Master Truffle & Hardhat Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Truffle & Hardhat.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Truffle & Hardhat Official Technical Documentation",
+        "Interactive Truffle & Hardhat Guided Labs & Exercises"
+      ]
+    },
+    "TypeScript": {
+      "skill": "TypeScript",
+      "phase": 1,
+      "title": "Master TypeScript Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for TypeScript.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "TypeScript Official Technical Documentation",
+        "Interactive TypeScript Guided Labs & Exercises"
+      ]
+    },
+    "UI/UX Design": {
+      "skill": "UI/UX Design",
+      "phase": 2,
+      "title": "Master Core Competencies in UI/UX Design",
+      "description": "Develop practical proficiency, production design patterns, and hands-on domain experience in UI/UX Design.",
+      "category": "Core Engineering",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "UI/UX Design Official Technical Documentation",
+        "Interactive UI/UX Design Guided Labs & Exercises"
+      ]
+    },
+    "Unity": {
+      "skill": "Unity",
+      "phase": 2,
+      "title": "Interactive Mechanics & Simulation with Unity",
+      "description": "Implement gameplay logic, real-time physics, graphics rendering, and interactive systems using Unity.",
+      "category": "Game Development",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Unity Official Technical Documentation",
+        "Interactive Unity Guided Labs & Exercises"
+      ]
+    },
+    "Unreal Engine": {
+      "skill": "Unreal Engine",
+      "phase": 2,
+      "title": "Master Unreal Engine Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Unreal Engine.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Unreal Engine Official Technical Documentation",
+        "Interactive Unreal Engine Guided Labs & Exercises"
+      ]
+    },
+    "Usability Testing": {
+      "skill": "Usability Testing",
+      "phase": 2,
+      "title": "Business Analytics & Strategic Reporting with Usability Testing",
+      "description": "Extract business intelligence, build KPI tracking dashboards, and analyze key metrics with Usability Testing.",
+      "category": "Business Intelligence & Analytics",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Usability Testing Official Technical Documentation",
+        "Interactive Usability Testing Guided Labs & Exercises"
+      ]
+    },
+    "User Research": {
+      "skill": "User Research",
+      "phase": 1,
+      "title": "Master User Research Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for User Research.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "User Research Official Technical Documentation",
+        "Interactive User Research Guided Labs & Exercises"
+      ]
+    },
+    "VPN Configuration": {
+      "skill": "VPN Configuration",
+      "phase": 1,
+      "title": "Master VPN Configuration Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for VPN Configuration.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "VPN Configuration Official Technical Documentation",
+        "Interactive VPN Configuration Guided Labs & Exercises"
+      ]
+    },
+    "Vector Databases": {
+      "skill": "Vector Databases",
+      "phase": 1,
+      "title": "Master Vector Databases Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Vector Databases.",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Vector Databases Official Technical Documentation",
+        "Interactive Vector Databases Guided Labs & Exercises"
+      ]
+    },
+    "Video Tutorials": {
+      "skill": "Video Tutorials",
+      "phase": 2,
+      "title": "Master Video Tutorials Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Video Tutorials.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Video Tutorials Official Technical Documentation",
+        "Interactive Video Tutorials Guided Labs & Exercises"
+      ]
+    },
+    "Virtualization (VMware/VirtualBox)": {
+      "skill": "Virtualization (VMware/VirtualBox)",
+      "phase": 2,
+      "title": "Master Virtualization (VMware/VirtualBox) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Virtualization (VMware/VirtualBox).",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Virtualization (VMware/VirtualBox) Official Technical Documentation",
+        "Interactive Virtualization (VMware/VirtualBox) Guided Labs & Exercises"
+      ]
+    },
+    "Vue.js": {
+      "skill": "Vue.js",
+      "phase": 2,
+      "title": "Modern UI Implementation & Design with Vue.js",
+      "description": "Build responsive, accessible, and high-performance user interfaces and components using Vue.js.",
+      "category": "Frontend & UI Design",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Vue.js Official Technical Documentation",
+        "Interactive Vue.js Guided Labs & Exercises"
+      ]
+    },
+    "Vulnerability Assessment": {
+      "skill": "Vulnerability Assessment",
+      "phase": 2,
+      "title": "Master Vulnerability Assessment Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Vulnerability Assessment.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Vulnerability Assessment Official Technical Documentation",
+        "Interactive Vulnerability Assessment Guided Labs & Exercises"
+      ]
+    },
+    "Web Accessibility (a11y)": {
+      "skill": "Web Accessibility (a11y)",
+      "phase": 1,
+      "title": "Master Web Accessibility (a11y) Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Web Accessibility (a11y).",
+      "category": "Programming Languages",
+      "estimated_hours": 10.0,
+      "priority": "High",
+      "suggested_resources": [
+        "Web Accessibility (a11y) Official Technical Documentation",
+        "Interactive Web Accessibility (a11y) Guided Labs & Exercises"
+      ]
+    },
+    "Web3.js & Ethers.js": {
+      "skill": "Web3.js & Ethers.js",
+      "phase": 2,
+      "title": "Master Web3.js & Ethers.js Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Web3.js & Ethers.js.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Web3.js & Ethers.js Official Technical Documentation",
+        "Interactive Web3.js & Ethers.js Guided Labs & Exercises"
+      ]
+    },
+    "Windows Server": {
+      "skill": "Windows Server",
+      "phase": 2,
+      "title": "Master Windows Server Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Windows Server.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Windows Server Official Technical Documentation",
+        "Interactive Windows Server Guided Labs & Exercises"
+      ]
+    },
+    "Wireframing": {
+      "skill": "Wireframing",
+      "phase": 2,
+      "title": "Master Wireframing Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Wireframing.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Wireframing Official Technical Documentation",
+        "Interactive Wireframing Guided Labs & Exercises"
+      ]
+    },
+    "Wireshark": {
+      "skill": "Wireshark",
+      "phase": 2,
+      "title": "Master Wireshark Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Wireshark.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Wireshark Official Technical Documentation",
+        "Interactive Wireshark Guided Labs & Exercises"
+      ]
+    },
+    "Zero-Knowledge Proofs": {
+      "skill": "Zero-Knowledge Proofs",
+      "phase": 2,
+      "title": "Master Zero-Knowledge Proofs Programming Fundamentals & Idioms",
+      "description": "Learn syntax, types, modular architecture, control structures, and standard libraries for Zero-Knowledge Proofs.",
+      "category": "Programming Languages",
+      "estimated_hours": 14.0,
+      "priority": "Medium",
+      "suggested_resources": [
+        "Zero-Knowledge Proofs Official Technical Documentation",
+        "Interactive Zero-Knowledge Proofs Guided Labs & Exercises"
+      ]
+    }
+  },
+  "career_projects": {
+    "ai_engineer": [
+      {
+        "title": "Build an LLM-Powered Document Q&A Assistant",
+        "description": "Implement RAG pipeline with vector embeddings, semantic search, and context-aware responses.",
+        "skill": "PyTorch / NLP",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "End-to-End Image Classification Pipeline with PyTorch",
+        "description": "Train custom CNN/ResNet model, implement data augmentation, and export with ONNX inference runtime.",
+        "skill": "Deep Learning",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "software_developer": [
+      {
+        "title": "Build a Modular Desktop Productivity Application",
+        "description": "Architect an offline desktop GUI tool with PySide6/Qt, SQLite database, and robust error handling.",
+        "skill": "Python / OOP",
+        "hours": 16.0,
+        "priority": "High"
+      },
+      {
+        "title": "High-Performance Data Processing & Search Engine",
+        "description": "Design an inverted index search utility with custom caching algorithms and unit test suites.",
+        "skill": "Data Structures",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "backend_developer": [
+      {
+        "title": "E-Commerce REST API with Authentication & Caching",
+        "description": "Build asynchronous REST microservice with JWT auth, PostgreSQL database, Redis caching, and rate limiting.",
+        "skill": "REST APIs / SQL",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Real-time Notification & Event Streaming Service",
+        "description": "Implement WebSockets and background task workers with Celery/Redis for asynchronous dispatch.",
+        "skill": "Backend Architecture",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "frontend_developer": [
+      {
+        "title": "Interactive Analytics Dashboard with React & TypeScript",
+        "description": "Develop responsive modern web UI with dynamic chart visualizations, theme switcher, and state management.",
+        "skill": "React / TypeScript",
+        "hours": 16.0,
+        "priority": "High"
+      },
+      {
+        "title": "Accessible E-Commerce Product Catalog UI",
+        "description": "Build high-performance client with filtering, search, modal previews, and full WCAG accessibility.",
+        "skill": "HTML5 & CSS3",
+        "hours": 12.0,
+        "priority": "Medium"
+      }
+    ],
+    "data_scientist": [
+      {
+        "title": "Customer Churn Prediction & Feature Importance Engine",
+        "description": "Perform exploratory data analysis, feature engineering, train XGBoost/RandomForest models, and evaluate ROC-AUC.",
+        "skill": "Scikit-Learn / Pandas",
+        "hours": 16.0,
+        "priority": "High"
+      },
+      {
+        "title": "Interactive Exploratory Data Visualization Dashboard",
+        "description": "Build web-based exploratory analytics report using Streamlit/Plotly showcasing statistical insights.",
+        "skill": "Data Visualization",
+        "hours": 12.0,
+        "priority": "Medium"
+      }
+    ],
+    "cybersecurity_engineer": [
+      {
+        "title": "Automated Network Vulnerability & Port Scanner",
+        "description": "Develop a multi-threaded network scanner with banner grabbing, vulnerability lookups, and report generation.",
+        "skill": "Network Security",
+        "hours": 16.0,
+        "priority": "High"
+      },
+      {
+        "title": "Secure Authentication System with Multi-Factor Verification",
+        "description": "Implement secure password hashing (Argon2), TOTP 2FA, session protection, and CSRF mitigation.",
+        "skill": "Cryptography",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "cloud_engineer": [
+      {
+        "title": "Multi-Tier Cloud Infrastructure on AWS with Terraform",
+        "description": "Architect highly available VPC, EC2 auto-scaling group, Application Load Balancer, and RDS PostgreSQL with automated IaC scripts.",
+        "skill": "Terraform / AWS",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Serverless Event-Driven Data Processing Pipeline",
+        "description": "Deploy AWS Lambda functions triggered by S3 file uploads writing transformed data to DynamoDB with CloudWatch monitoring.",
+        "skill": "Serverless (AWS Lambda)",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "devops_engineer": [
+      {
+        "title": "Complete GitOps CI/CD Deployment Pipeline",
+        "description": "Build automated GitHub Actions workflow building Docker images, running PyTest, and deploying to Kubernetes via Helm charts.",
+        "skill": "Kubernetes / CI/CD",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Infrastructure Monitoring & Telemetry Stack",
+        "description": "Deploy Prometheus, Grafana, and Alertmanager stack tracking cluster CPU, memory, and container restart rate with Slack alerts.",
+        "skill": "Prometheus & Grafana",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "mobile_developer": [
+      {
+        "title": "Cross-Platform Mobile Fitness Tracker Application",
+        "description": "Build native-feel mobile app using Flutter/React Native featuring local SQLite offline caching, state management, and step graphs.",
+        "skill": "Flutter / React Native",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Location-Aware Social Discoverability Mobile App",
+        "description": "Implement GPS mapping, push notifications, background location tracking, and Firebase authentication in a responsive mobile client.",
+        "skill": "Mobile UI Design / Firebase",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "full_stack_developer": [
+      {
+        "title": "Collaborative Real-Time Workspace & Kanban Board",
+        "description": "Build full-stack single page app with React frontend, FastAPI/Node.js backend, PostgreSQL database, and WebSocket live updates.",
+        "skill": "React / Node.js / SQL",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Production Microservices SaaS Platform with Stripe Billing",
+        "description": "Implement decoupled authentication and billing services, Docker container orchestration, and automated end-to-end integration tests.",
+        "skill": "Full Stack Architecture",
+        "hours": 16.0,
+        "priority": "Medium"
+      }
+    ],
+    "data_analyst": [
+      {
+        "title": "Interactive Executive Business Performance Dashboard",
+        "description": "Transform multi-year sales and supply chain datasets using SQL and Power BI/Tableau into an interactive KPI drill-down dashboard.",
+        "skill": "Power BI / SQL",
+        "hours": 16.0,
+        "priority": "High"
+      },
+      {
+        "title": "Customer Segmentation & Cohort Retention Analysis",
+        "description": "Clean and analyze transactional logs with Pandas, calculate customer lifetime value (LTV), and generate cohort heatmaps.",
+        "skill": "Data Analysis / Pandas",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "ml_engineer": [
+      {
+        "title": "Production MLOps Pipeline with Model Registry & Drift Detection",
+        "description": "Build end-to-end machine learning pipeline with MLflow tracking, automated retraining triggers, and FastAPI model inference endpoint.",
+        "skill": "MLOps / MLflow",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Scalable Real-Time Recommendation Engine",
+        "description": "Implement collaborative filtering and vector embeddings for real-time item recommendations deployed as containerized Docker service.",
+        "skill": "Deep Learning / PyTorch",
+        "hours": 16.0,
+        "priority": "Medium"
+      }
+    ],
+    "qa_automation_engineer": [
+      {
+        "title": "End-to-End Test Automation Framework with PyTest & Selenium",
+        "description": "Design page object model (POM) automated browser test suite with parallel test execution, HTML reporting, and GitHub Actions CI integration.",
+        "skill": "Selenium / PyTest",
+        "hours": 16.0,
+        "priority": "High"
+      },
+      {
+        "title": "Automated REST API & Contract Testing Suite",
+        "description": "Develop automated API test harness validating HTTP status codes, JSON schema response payloads, and performance latency thresholds.",
+        "skill": "API Testing / Postman",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "ui_ux_designer": [
+      {
+        "title": "Comprehensive Design System & Component Library in Figma",
+        "description": "Design complete multi-theme design tokens, responsive typography hierarchy, accessible UI components, and Figma autolayout variants.",
+        "skill": "Figma / Design Systems",
+        "hours": 16.0,
+        "priority": "High"
+      },
+      {
+        "title": "End-to-End Mobile Banking App UX Case Study & Prototype",
+        "description": "Conduct user interviews, map customer journey workflows, create low-fidelity wireframes, and deliver high-fidelity clickable prototype.",
+        "skill": "UI/UX Design / User Research",
+        "hours": 16.0,
+        "priority": "Medium"
+      }
+    ],
+    "database_administrator": [
+      {
+        "title": "High-Availability PostgreSQL Cluster with Automated Failover",
+        "description": "Configure streaming replication, pgBouncer connection pooling, automated WAL archiving, and backup restoration drills on Linux servers.",
+        "skill": "PostgreSQL / Database Administration",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Database Query Performance Optimization & Index Tuning Case Study",
+        "description": "Analyze slow query execution plans (EXPLAIN ANALYZE), eliminate table scans with compound indexes, and partition large analytical tables.",
+        "skill": "Performance Tuning / SQL",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "site_reliability_engineer": [
+      {
+        "title": "Full-Stack Observability & Incident Response Platform",
+        "description": "Set up Prometheus metrics collection, custom Grafana alerting dashboards, structured log aggregations, and automated PagerDuty webhooks.",
+        "skill": "Observability & Monitoring / Prometheus & Grafana",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Automated Chaos Engineering & Disaster Recovery Suite",
+        "description": "Implement chaos testing scripts simulating node dropouts, network latency injection, and verify SLO error budget recovery times.",
+        "skill": "Chaos Engineering / Linux",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "blockchain_developer": [
+      {
+        "title": "Decentralized Crowdfunding Platform with Solidity & Hardhat",
+        "description": "Write secure ERC-20 smart contracts with reentrancy protection, build comprehensive unit test suites, and deploy to Sepolia testnet.",
+        "skill": "Solidity / Smart Contracts",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Web3 DeFi Staking Dashboard with Ethers.js",
+        "description": "Develop responsive frontend connecting MetaMask wallet, querying on-chain smart contract state, and signing staking transactions.",
+        "skill": "Web3.js & Ethers.js / JavaScript",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "game_developer": [
+      {
+        "title": "2.5D Action Platformer Game Engine in Unity / C#",
+        "description": "Implement kinematic character controller, state machines, particle effects, tilemap collision, and dynamic sound effects manager in Unity.",
+        "skill": "Unity / C#",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Real-Time 3D Physics Simulation & Custom Shader Renderer",
+        "description": "Develop custom HLSL lighting shaders, collision resolution algorithms, and realistic projectile physics in C++.",
+        "skill": "Game Physics / C++",
+        "hours": 16.0,
+        "priority": "Medium"
+      }
+    ],
+    "embedded_systems_engineer": [
+      {
+        "title": "Real-Time Environmental Sensor Hub on ARM Cortex Microcontroller",
+        "description": "Write bare-metal C firmware interfacing I2C/SPI sensors (temperature, humidity, pressure) with FreeRTOS task scheduling.",
+        "skill": "Embedded Systems / C",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Low-Power IoT Gateway with UART & MQTT Protocol Bridge",
+        "description": "Implement deterministic UART packet parser, low-power sleep state transitions, and WiFi MQTT sensor telemetry forwarding.",
+        "skill": "Communication Protocols (I2C/SPI/UART) / RTOS",
+        "hours": 16.0,
+        "priority": "Medium"
+      }
+    ],
+    "bi_analyst": [
+      {
+        "title": "Enterprise Revenue & Operations Power BI Analytics Suite",
+        "description": "Construct star-schema data warehouse model, write advanced DAX calculated measures, and publish executive financial reports.",
+        "skill": "Power BI / DAX",
+        "hours": 16.0,
+        "priority": "High"
+      },
+      {
+        "title": "Automated SQL ETL Pipeline & Tableau KPI Dashboard",
+        "description": "Author complex SQL transformation queries aggregating transactional data into warehouse tables and connect live Tableau dashboards.",
+        "skill": "SQL / Tableau",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "technical_product_manager": [
+      {
+        "title": "Comprehensive Product Requirement Document (PRD) & Roadmap",
+        "description": "Draft end-to-end technical PRD for a multi-tenant B2B SaaS platform including user personas, user stories, acceptance criteria, and API specs.",
+        "skill": "Product Strategy / Roadmap Planning",
+        "hours": 16.0,
+        "priority": "High"
+      },
+      {
+        "title": "Feature Prioritization Matrix & Product Analytics Experiment",
+        "description": "Design RICE scoring framework for backlogs and define A/B testing telemetry funnel metrics tracking onboarding conversion rates.",
+        "skill": "Data Analysis / Agile & Scrum",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "robotics_engineer": [
+      {
+        "title": "Autonomous Mobile Robot Navigation & Obstacle Avoidance with ROS",
+        "description": "Build ROS package with 2D LiDAR SLAM mapping, sensor fusion Kalman filtering, and Nav2 path planning in Gazebo simulation.",
+        "skill": "ROS (Robot Operating System) / Kinematics & Dynamics",
+        "hours": 18.0,
+        "priority": "High"
+      },
+      {
+        "title": "Robotic Arm Inverse Kinematics & Object Sorting Vision System",
+        "description": "Program 6-DOF robotic manipulator inverse kinematics solver and integrate OpenCV camera pipeline for color-based object pick-and-place.",
+        "skill": "Computer Vision / Control Systems",
+        "hours": 16.0,
+        "priority": "Medium"
+      }
+    ],
+    "technical_writer": [
+      {
+        "title": "Developer-Facing REST API Reference Portal with Docs-as-Code",
+        "description": "Author interactive API documentation using OpenAPI/Swagger, Markdown, and static site generator (Docusaurus/MkDocs) with CI deployment.",
+        "skill": "API Documentation / Markdown & Docs-as-Code",
+        "hours": 16.0,
+        "priority": "High"
+      },
+      {
+        "title": "Comprehensive Cloud Software Architectural Guide & Quickstart Tutorial",
+        "description": "Write illustrated end-to-end getting started developer guide including Mermaid architecture diagrams and troubleshooting steps.",
+        "skill": "Technical Writing / Information Architecture",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ],
+    "it_support_engineer": [
+      {
+        "title": "Enterprise Active Directory & Automated User Provisioning Lab",
+        "description": "Deploy Windows Server domain controller, configure Group Policy Objects (GPOs), organizational units, and automate user setup with PowerShell.",
+        "skill": "Active Directory & IAM / Windows Server",
+        "hours": 16.0,
+        "priority": "High"
+      },
+      {
+        "title": "Automated Linux Server Diagnostics & Network Monitoring Tool",
+        "description": "Write Bash and Python diagnostic scripts monitoring disk usage, network latency, system services, and emailing automated health summaries.",
+        "skill": "Linux / Computer Networking",
+        "hours": 14.0,
+        "priority": "Medium"
+      }
+    ]
+  }
+}
